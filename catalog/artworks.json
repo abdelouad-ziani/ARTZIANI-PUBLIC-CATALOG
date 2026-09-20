@@ -27,6 +27,32 @@
       "width_mm": 297.0
     },
     {
+      "artwork_id": "Encaustique/MYB1-T0008152024AZ_H_01",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1500.0,
+      "images": [
+        {
+          "file": "media/fe7a7d109d42e3bbe0aa/000-3d6f52bff270ec88.webp",
+          "height_px": 295,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "3d6f52bff270ec88712a80e8d509b646716b5acf7d2c77bfb9fb80a8fcbfb531",
+          "sort_order": 0,
+          "width_px": 631
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "sans",
+      "width_mm": 2100.0
+    },
+    {
       "artwork_id": "KALR 00124 ST234",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encre sur papier",
