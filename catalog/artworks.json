@@ -1,32 +1,6 @@
 {
   "artworks": [
     {
-      "artwork_id": "Encaustique/ZFAZ 0033RLK012025",
-      "availability_status": "NOT_AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 650.0,
-      "images": [
-        {
-          "file": "media/a392af3c3c3dede66de0/000-9c0ffa40367dcf47.webp",
-          "height_px": 1033,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "9c0ffa40367dcf476fba4f8b17a0fc51117bce422f2928542cf58f9c7f6c9aa0",
-          "sort_order": 0,
-          "width_px": 1280
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2025,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "sans",
-      "width_mm": 890.0
-    },
-    {
       "artwork_id": "KALR 00124 ST234",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encre sur papier",
