@@ -27,6 +27,32 @@
       "width_mm": 297.0
     },
     {
+      "artwork_id": "Encaustique/AAZ 082024 ENC001ACH",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1030.0,
+      "images": [
+        {
+          "file": "media/261f6603d66d56bd570f/000-4ae939a4d10c98e3.webp",
+          "height_px": 262,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "4ae939a4d10c98e3ca8e1783fdfa3d1e49f1f717aefaf9bfd0b934b1e1ec2992",
+          "sort_order": 0,
+          "width_px": 384
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "sans",
+      "width_mm": 1530.0
+    },
+    {
       "artwork_id": "Encaustique/MYB1-T0008152024AZ_H_01",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encaustique sur bois",
