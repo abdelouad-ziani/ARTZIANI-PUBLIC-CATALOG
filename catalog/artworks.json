@@ -1,0 +1,135 @@
+{
+  "artworks": [
+    {
+      "artwork_id": "Encaustique/ZFAZ 0033RLK012025",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/a392af3c3c3dede66de0/000-9c0ffa40367dcf47.webp",
+          "height_px": 1033,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9c0ffa40367dcf476fba4f8b17a0fc51117bce422f2928542cf58f9c7f6c9aa0",
+          "sort_order": 0,
+          "width_px": 1280
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2025,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "sans",
+      "width_mm": 890.0
+    },
+    {
+      "artwork_id": "KALR 00124 ST234",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 320.0,
+      "images": [
+        {
+          "file": "media/314c430984f079884dec/000-ea7ddfc248e351ca.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ea7ddfc248e351caa81e700a01da23456911a4e38c8fef1fb541e64f782824e2",
+          "sort_order": 0,
+          "width_px": 1400
+        }
+      ],
+      "materials": null,
+      "orientation": "PORTRAIT",
+      "production_year": 2018,
+      "support": "PAPIER",
+      "technique": "AQUARELLE",
+      "title": "SANS",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "KALR 00123 ST 232",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 320.0,
+      "images": [
+        {
+          "file": "media/7dd650ad07aa69242ecf/000-982255cc2c9639a6.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "982255cc2c9639a6cb52292c0b4d9507e34bf4e524b96737709e9863f77ef9b4",
+          "sort_order": 0,
+          "width_px": 1414
+        }
+      ],
+      "materials": null,
+      "orientation": "PORTRAIT",
+      "production_year": 2016,
+      "support": "PAPIER",
+      "technique": "AQUARELLE",
+      "title": "SANS",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "BSL.26082023-001 /002 /003",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 760.0,
+      "images": [
+        {
+          "file": "media/966f5a7620519c268ad0/000-024fb83864e1eb8b.webp",
+          "height_px": 312,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "024fb83864e1eb8b757503294adf2c14ee3d23476858a6f7081ce8f61f1ae9dc",
+          "sort_order": 0,
+          "width_px": 798
+        }
+      ],
+      "materials": null,
+      "orientation": "paysage",
+      "production_year": 2014,
+      "support": "bois",
+      "technique": "encaustique",
+      "title": "sans",
+      "width_mm": 2060.0
+    },
+    {
+      "artwork_id": "KALR 00124 ST 233",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 320.0,
+      "images": [
+        {
+          "file": "media/e465cc8445d232d727dc/000-982255cc2c9639a6.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "982255cc2c9639a6cb52292c0b4d9507e34bf4e524b96737709e9863f77ef9b4",
+          "sort_order": 0,
+          "width_px": 1414
+        }
+      ],
+      "materials": null,
+      "orientation": "PRTRAIT",
+      "production_year": 2006,
+      "support": "PAIER",
+      "technique": "AQUARELLE",
+      "title": "SANS",
+      "width_mm": 290.0
+    }
+  ],
+  "schema_version": "1.0"
+}
