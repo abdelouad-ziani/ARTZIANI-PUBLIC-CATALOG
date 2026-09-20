@@ -1,6 +1,32 @@
 {
   "artworks": [
     {
+      "artwork_id": "Encre/ROS-US-RZ-1112225ZA3",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 425.0,
+      "images": [
+        {
+          "file": "media/04014eb08071dad117dd/000-375ce5c033bd513c.webp",
+          "height_px": 543,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "375ce5c033bd513c10fb3fc8656ed39a86d260183cc39772bd248976e3c194e8",
+          "sort_order": 0,
+          "width_px": 397
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2025,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "sans",
+      "width_mm": 297.0
+    },
+    {
       "artwork_id": "KALR 00124 ST234",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encre sur papier",
