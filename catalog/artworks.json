@@ -209,6 +209,32 @@
       "width_mm": 2100.0
     },
     {
+      "artwork_id": "Encaustique/RZTK.01-02-03IA.08202.2023",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 600.0,
+      "images": [
+        {
+          "file": "media/acc440bb65e780f80558/000-0ac45c1a75e47e9a.webp",
+          "height_px": 302,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "0ac45c1a75e47e9a9f25d5449aa10e6fcd7f32bcd3e2abd609175bfb98cd7af0",
+          "sort_order": 0,
+          "width_px": 675
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2023,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 1550.0
+    },
+    {
       "artwork_id": "Encre/LRZK113-20012022",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encre sur papier",
@@ -233,6 +259,58 @@
       "technique": "Encre",
       "title": "Sans",
       "width_mm": 420.0
+    },
+    {
+      "artwork_id": "mixte/YS 009 2023",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/c18616f7d2986c6a8fce/000-65328f8aa8325185.webp",
+          "height_px": 1600,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "65328f8aa832518586e169514e897918e348d8cc03736bad47ec1f9e70a30768",
+          "sort_order": 0,
+          "width_px": 957
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2023,
+      "support": null,
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1600.0
+    },
+    {
+      "artwork_id": "mixte/YS 0091 2023",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 800.0,
+      "images": [
+        {
+          "file": "media/4383be50e693ae90a3a2/000-0a0e2c859f496bda.webp",
+          "height_px": 1004,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "0a0e2c859f496bda4794e154aa6ce6d42064dffbdc856fedd5fac689c7858734",
+          "sort_order": 0,
+          "width_px": 2000
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2023,
+      "support": null,
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1600.0
     },
     {
       "artwork_id": "Encaustique/KFA-77A052022",
@@ -495,6 +573,214 @@
       "width_mm": 405.0
     },
     {
+      "artwork_id": "Encre/YS 001 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/d2797dcbc544cd2c1ee0/000-c60c36dd23b619d3.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c60c36dd23b619d30fac889d78760d25f29bb392eda5926c163223899b56f1cb",
+          "sort_order": 0,
+          "width_px": 1390
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 297.0
+    },
+    {
+      "artwork_id": "Encre/YS 002 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/17b4402c27042d1432fc/000-a3deede492e284ab.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a3deede492e284abd8bf1b2794927d47242647af94d9e2d67d9670da6ee82c73",
+          "sort_order": 0,
+          "width_px": 1351
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 297.0
+    },
+    {
+      "artwork_id": "Encre/YS 003 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/52ba9882b56467589a49/000-fb0c9d860d0e6b7a.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fb0c9d860d0e6b7a1953e74fdcc4f4c01701402c40caefe345a300bbbae8f595",
+          "sort_order": 0,
+          "width_px": 1368
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 594.0
+    },
+    {
+      "artwork_id": "Encre/YS 004 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/e36742f17392f8b22fd7/000-53c4fe7cb597e20d.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "53c4fe7cb597e20d10e828e28f0221b96cefd4f60b2a661c06493d1647dbc550",
+          "sort_order": 0,
+          "width_px": 1371
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 297.0
+    },
+    {
+      "artwork_id": "Encre/YS 005 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/a9291d37ad29fead52e5/000-21273c8cf6db3b21.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "21273c8cf6db3b21e71b8e7f78fc6f1fd064ad84c1f1976127e433fc58b7e2c6",
+          "sort_order": 0,
+          "width_px": 1449
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 297.0
+    },
+    {
+      "artwork_id": "Encre/YS 006 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/b1c93698aae7c97d6259/000-7a4cdb93c8cfa059.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "7a4cdb93c8cfa059b4c7ef0a43090fc02c31236915d47d5baca64cb052f7cb3f",
+          "sort_order": 0,
+          "width_px": 1469
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 297.0
+    },
+    {
+      "artwork_id": "Encre/YS 007 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/631b6785202bdfe484a0/000-bb73fda4baae62d7.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bb73fda4baae62d7d9850bd43e22c9173a20ca19d617ebc0acc2f3982f03c716",
+          "sort_order": 0,
+          "width_px": 1458
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 297.0
+    },
+    {
+      "artwork_id": "Encre/YS 008 2021",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 420.0,
+      "images": [
+        {
+          "file": "media/8ecaea88c9dd2bac446f/000-5270b127944b5ad6.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "5270b127944b5ad6002a7f55afebad555d3a59a8e07d30c5d6df2f7b847c1cff",
+          "sort_order": 0,
+          "width_px": 1461
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 297.0
+    },
+    {
       "artwork_id": "Encre/LRZK10112018",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encre sur papier",
@@ -634,6 +920,58 @@
       "width_mm": 290.0
     },
     {
+      "artwork_id": "Acrylique/ref yia 001 2016",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/ae8b1d6b4e58f6fb61ab/000-963607f8d7acd7f2.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "963607f8d7acd7f2413c9dfe24de1dc547989920c306c04478ceed65c0f7823d",
+          "sort_order": 0,
+          "width_px": 867
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "Sans",
+      "width_mm": 400.0
+    },
+    {
+      "artwork_id": "Acrylique/ref yia 002 2016",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/1db38916276815212639/000-e45230764e419156.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e45230764e419156397daca293fd071aeef71509c90cb60e7add7670151a6c0b",
+          "sort_order": 0,
+          "width_px": 882
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "Sans",
+      "width_mm": 400.0
+    },
+    {
       "artwork_id": "KALR 00123 ST 232",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encre sur papier",
@@ -658,6 +996,58 @@
       "technique": "AQUARELLE",
       "title": "SANS",
       "width_mm": 290.0
+    },
+    {
+      "artwork_id": "mixte/F.S.M-0017-A1",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/542fa800b4724453f6e0/000-d9b25a09f9e6ded5.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d9b25a09f9e6ded57ea383b0392c062814b65578eeb1f30cd16424b01658b0fb",
+          "sort_order": 0,
+          "width_px": 759
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1250.0
+    },
+    {
+      "artwork_id": "mixte/F.S.M-0017-A2",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/de28dc5e1a9f621a5286/000-32b01826481056cc.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "32b01826481056cc80f075b92e54852d79fbf8cce139743eb942e9b046b827d6",
+          "sort_order": 0,
+          "width_px": 788
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1250.0
     },
     {
       "artwork_id": "Acrylique/KZA1-77A012014",
