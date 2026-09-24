@@ -79,6 +79,32 @@
       "width_mm": 650.0
     },
     {
+      "artwork_id": "Encaustique/azklr EB65X652026C.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/40aee6445fd8f9532320/000-05396f457efa1c4e.webp",
+          "height_px": 1021,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "05396f457efa1c4ec818ab8c6dc7886c6fa7ff0285c9c9ae0e8ac3ebd756e047",
+          "sort_order": 0,
+          "width_px": 1070
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 650.0
+    },
+    {
       "artwork_id": "Aquarelle/IBN.AR.17152BI",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Aquarelle sur papier",
@@ -129,6 +155,32 @@
       "technique": "Encaustique",
       "title": "Sans",
       "width_mm": 890.0
+    },
+    {
+      "artwork_id": "Encaustique/azklr EB103X762025D.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1030.0,
+      "images": [
+        {
+          "file": "media/cfafd04f024dfabe4603/000-cb63630d54a45ecc.webp",
+          "height_px": 1057,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "cb63630d54a45eccc9b47e4fc435f4acad52cab094da44600dd94c6af26cae08",
+          "sort_order": 0,
+          "width_px": 784
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2025,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 760.0
     },
     {
       "artwork_id": "Encre/ROS-US-RZ-1112225ZA3",
@@ -209,6 +261,890 @@
       "width_mm": 2100.0
     },
     {
+      "artwork_id": "Encaustique/ZAAZ 082024 76X103 ENC001ACHY.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/bd88188a7f3ce38b0a5f/000-9ca34519bde907da.webp",
+          "height_px": 1054,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9ca34519bde907daa2b4f52e4dea0830adfd7a4700432f85d1ff62bf991b8a83",
+          "sort_order": 0,
+          "width_px": 798
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A17.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/67a1c2cc4cd4cb7b289b/000-ed27537bdfed11f8.webp",
+          "height_px": 458,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ed27537bdfed11f8af5fd5877e1ac5fe6b72a3f5b9e620af0c902225994a3126",
+          "sort_order": 0,
+          "width_px": 614
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A18.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/5a956540c7025c0bf2cf/000-a530d78399d43b85.webp",
+          "height_px": 945,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a530d78399d43b8567be5a7e675636695ba46149792a71035a672cde718a3277",
+          "sort_order": 0,
+          "width_px": 1231
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A19.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/462c5fa426f0c26d5cd9/000-4f1f0bf99d75e082.webp",
+          "height_px": 474,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "4f1f0bf99d75e082a9b739205971702c6b4ddbd0532700f22fac11a758868338",
+          "sort_order": 0,
+          "width_px": 627
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A20.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/da4d46491484f845cfbc/000-dfc1da6acfbce2e5.webp",
+          "height_px": 504,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "dfc1da6acfbce2e55efbaac5e928ef66249acf239521023e1a1d1bf1b9788040",
+          "sort_order": 0,
+          "width_px": 652
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A21.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/50cdfacbb525be6c788c/000-4ab2976ee3023269.webp",
+          "height_px": 499,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "4ab2976ee30232699bb9f1cc326dc7f956a9177270ac705e644c1667c243870d",
+          "sort_order": 0,
+          "width_px": 665
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A22.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/e4fec50483f7a5c62ef4/000-b4e32cbe8b700320.webp",
+          "height_px": 492,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b4e32cbe8b7003206d5418a741c69ec7f49401f5e051ddb580c6578a266e0b81",
+          "sort_order": 0,
+          "width_px": 663
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A23.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/e76d567cb8b4456787c8/000-c1e4e11d561fbef0.webp",
+          "height_px": 510,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c1e4e11d561fbef09459a0f2d09d123897ca4cdc5c9724746f3efac7507e527d",
+          "sort_order": 0,
+          "width_px": 679
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A24.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/c37f9649036271ea58bd/000-ac9dc5faebe226ca.webp",
+          "height_px": 512,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ac9dc5faebe226ca44b9ce0a7fa5f3cfda02a57b51b580ab81ad0f37fdf50c74",
+          "sort_order": 0,
+          "width_px": 667
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A40.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/237b0a728311e391d70a/000-156439d5d1778554.webp",
+          "height_px": 522,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "156439d5d17785543700b06e62797714dd46715d0cb0ee63f3f7a88a50af0aa6",
+          "sort_order": 0,
+          "width_px": 694
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A41.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/7c249015072a2874b71c/000-cf60eafd5efb814b.webp",
+          "height_px": 518,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "cf60eafd5efb814bc4028d531d3c796ab67be39f09fb6df24d68afe8ad60116d",
+          "sort_order": 0,
+          "width_px": 675
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A50.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/545562193b334ab3718f/000-6ce6d308b0835bd4.webp",
+          "height_px": 504,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "6ce6d308b0835bd47c53f62cfba293ec595a562d7b1c7b3e7934c7483e6ed738",
+          "sort_order": 0,
+          "width_px": 643
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A51.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/41fcb2900b5901393f97/000-cf0ef30e9d6fc19b.webp",
+          "height_px": 522,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "cf0ef30e9d6fc19b6bcda0a0ed4c56a8693383c9025b88b43edf9aed4bae3aa6",
+          "sort_order": 0,
+          "width_px": 679
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A52.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/e0b2dbf00efff310ce79/000-5625d231046e06b8.webp",
+          "height_px": 516,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "5625d231046e06b8a7523e72fa431028449f1d8a4ca6671f51f58305a6487342",
+          "sort_order": 0,
+          "width_px": 682
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A53.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/ff1eaa16aa33fe3c3200/000-1f2cdba05ba099e3.webp",
+          "height_px": 520,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "1f2cdba05ba099e3b38dbd9749a8e040fb94ba419fd1d11ce7914435a595dc51",
+          "sort_order": 0,
+          "width_px": 695
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A54.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/6c9bf2b6f544d8baae3b/000-9c5a5477b81ff258.webp",
+          "height_px": 518,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9c5a5477b81ff258ed41ee953b7aa715aa249766d8d569bd0ee92e59df643120",
+          "sort_order": 0,
+          "width_px": 677
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A60.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/2f859c234c30037170a5/000-ade9a8a5e0ca7ac0.webp",
+          "height_px": 473,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ade9a8a5e0ca7ac047cd38fc2903896237dfef107fd22d1bc14347beb517267b",
+          "sort_order": 0,
+          "width_px": 646
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A61.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/c8bc315efabb2fc303c9/000-fea088061a9d2cf3.webp",
+          "height_px": 474,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fea088061a9d2cf32affb58d4056318918b3acab727db09eb4aafe06826a1a01",
+          "sort_order": 0,
+          "width_px": 633
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A62.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/6aefa8bd7f2fa3559a7b/000-a530d78399d43b85.webp",
+          "height_px": 945,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a530d78399d43b8567be5a7e675636695ba46149792a71035a672cde718a3277",
+          "sort_order": 0,
+          "width_px": 1231
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A63.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/3b4d6939ebe929fa7154/000-b4e32cbe8b700320.webp",
+          "height_px": 492,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b4e32cbe8b7003206d5418a741c69ec7f49401f5e051ddb580c6578a266e0b81",
+          "sort_order": 0,
+          "width_px": 663
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A65.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/80b8cdf2e98bbf946a49/000-4ab2976ee3023269.webp",
+          "height_px": 499,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "4ab2976ee30232699bb9f1cc326dc7f956a9177270ac705e644c1667c243870d",
+          "sort_order": 0,
+          "width_px": 665
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A66.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/0a57c351944febd4bee3/000-cf60eafd5efb814b.webp",
+          "height_px": 518,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "cf60eafd5efb814bc4028d531d3c796ab67be39f09fb6df24d68afe8ad60116d",
+          "sort_order": 0,
+          "width_px": 675
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A67.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/7907329f40b7dab01174/000-e5856453eb5a15ad.webp",
+          "height_px": 522,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e5856453eb5a15ada88e00a01bdff98dc43d0b9c8ec5e347012b9359ee9a5140",
+          "sort_order": 0,
+          "width_px": 697
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A68.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/8c472c36ce8905115700/000-20cc4e7d8c142f0c.webp",
+          "height_px": 498,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "20cc4e7d8c142f0c623bd6d2c658c6fd7e3d8dc867ee8a8db80da0e11f36f7d1",
+          "sort_order": 0,
+          "width_px": 379
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A69.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/0113c01d6c7961fbf547/000-d52322da7929f810.webp",
+          "height_px": 682,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d52322da7929f810197632caf6854152b0d963e50c6b3e2c5e93fca51bf24c2a",
+          "sort_order": 0,
+          "width_px": 496
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A99.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/1fe293824b37618f4543/000-1973840f29a9bccc.webp",
+          "height_px": 490,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "1973840f29a9bccca9d05647a449ec7f110b3ba2fc093bdf07399dbf8ef3135a",
+          "sort_order": 0,
+          "width_px": 666
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001AZER.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/21501f5bec67c13d692f/000-fea088061a9d2cf3.webp",
+          "height_px": 474,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fea088061a9d2cf32affb58d4056318918b3acab727db09eb4aafe06826a1a01",
+          "sort_order": 0,
+          "width_px": 633
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZKFAENC-140MM2024.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/a84e3881116830f04c6e/000-9aeabb38c0d13fa5.webp",
+          "height_px": 328,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9aeabb38c0d13fa5f2e7a447e7736229c731d0efbd66c44f0e5e5f9fd5e18114",
+          "sort_order": 0,
+          "width_px": 451
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/Zazklr EB76X1032024 BZF_LLM.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/3c5af0a46e7a3871d237/000-6f0fb9ef5f68ecfc.webp",
+          "height_px": 507,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "6f0fb9ef5f68ecfc0596b44ca1b43bbe31405c9249b80499d517657daca70cd3",
+          "sort_order": 0,
+          "width_px": 675
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/azklr EB100X702024 Z",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/b254f913d19ecace38f9/000-3071a2042221c190.webp",
+          "height_px": 536,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "3071a2042221c19035429e6c97446bee2ba842582b5ab9bb51a8ebc2cffb624c",
+          "sort_order": 0,
+          "width_px": 787
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encaustique/azklr EB76X1032024 B.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 760.0,
+      "images": [
+        {
+          "file": "media/fc1d98a0f99b80ed557c/000-823f682c8dd81575.webp",
+          "height_px": 888,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "823f682c8dd815759ccd637a53494d10b80e3620d2c3e19825269ce73d3bfa1e",
+          "sort_order": 0,
+          "width_px": 1178
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 1030.0
+    },
+    {
+      "artwork_id": "Encre/Zazklr MT100X90-162024ZZ.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/dd1f286133464e20f155/000-f56a96f30080343a.webp",
+          "height_px": 656,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "f56a96f30080343ae7dbcacb652811e19142deed206d35014a171b8ae480251c",
+          "sort_order": 0,
+          "width_px": 871
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/Zazklr MT100X65_2024 a2.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/581e94801733a25b91c8/000-cfa1ececfb64e11d.webp",
+          "height_px": 513,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "cfa1ececfb64e11dedc4761f592df15340fec743576182d6a9ededc7cdce28de",
+          "sort_order": 0,
+          "width_px": 334
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "mixte/azklr MT130X1202024 A7",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1300.0,
+      "images": [
+        {
+          "file": "media/175364bed84694ffda7c/000-64859ea34e30ac7e.webp",
+          "height_px": 664,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "64859ea34e30ac7e8a8fb1fe5daa53e4eafa6155669d0cf8bd45283fba57a394",
+          "sort_order": 0,
+          "width_px": 708
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1200.0
+    },
+    {
       "artwork_id": "Encaustique/RZTK.01-02-03IA.08202.2023",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -281,7 +1217,7 @@
       "materials": null,
       "orientation": null,
       "production_year": 2023,
-      "support": null,
+      "support": "toile",
       "technique": "mixte",
       "title": "Sans",
       "width_mm": 1600.0
@@ -307,7 +1243,7 @@
       "materials": null,
       "orientation": null,
       "production_year": 2023,
-      "support": null,
+      "support": "toile",
       "technique": "mixte",
       "title": "Sans",
       "width_mm": 1600.0
@@ -337,6 +1273,58 @@
       "technique": "Encaustique",
       "title": "Sans",
       "width_mm": 440.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20220208_092115.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/3a5b7eb154d391d2146f/000-150191f13d9a6ad9.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "150191f13d9a6ad99c47f16c469841e7dbae99dee0ba38f8586dacc204bb2536",
+          "sort_order": 0,
+          "width_px": 1376
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose2",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20220219_004025.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/7af22fa0efdd07125e47/000-84814a5be85ff17e.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "84814a5be85ff17ec325cde4aa5d7590623b386d8630cec458716850ad167051",
+          "sort_order": 0,
+          "width_px": 1344
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose1",
+      "width_mm": 290.0
     },
     {
       "artwork_id": "Encre/LRZK112-20012022",
@@ -807,6 +1795,58 @@
       "width_mm": 420.0
     },
     {
+      "artwork_id": "mixte/ZAZ-MT 50X65_2019-A046.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/4e64309b2255620c0827/000-e6fb9b3207867b10.webp",
+          "height_px": 681,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e6fb9b3207867b1048ea95252142f4465cfec92b4e2301b13079de0b7436287b",
+          "sort_order": 0,
+          "width_px": 542
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2019,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "mixte/ZAZ-MT 70X70_2019-A046.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/3813d73afa886d29b843/000-cd403a4a39e9850a.webp",
+          "height_px": 684,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "cd403a4a39e9850a681800f9aed78721d5df22dcd9b7994b92d55465665d1367",
+          "sort_order": 0,
+          "width_px": 677
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2019,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 700.0
+    },
+    {
       "artwork_id": "Aquarelle/AZA_02.08-170BOSS",
       "availability_status": "AVAILABLE",
       "catalog_family": "Aquarelle sur papier",
@@ -972,6 +2012,266 @@
       "width_mm": 400.0
     },
     {
+      "artwork_id": "Encre/AZLR_20211230_004026.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/96e6354128b82792ea5a/000-d4fac1ccf8d30b7f.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d4fac1ccf8d30b7f23a6c5b61a724b1316464d69b7814ea53e30ac859697fb08",
+          "sort_order": 0,
+          "width_px": 1461
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose12",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_011336.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/5bf6862f4d069ad25fd1/000-08d2c1098200b0ad.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "08d2c1098200b0ad0780d4be0100842987c9dfba29c02699ec3bb8848c6d5bef",
+          "sort_order": 0,
+          "width_px": 1500
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose11",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_015853.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/ad1ed77fcf95027fe6cd/000-22d42858eaa19aa4.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "22d42858eaa19aa4597196c824c24763daee7bd1f9563bd7f69c360fa9b43bae",
+          "sort_order": 0,
+          "width_px": 1413
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose10",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_124606.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/e116580554b85fd3eccd/000-019e7b64259c9298.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "019e7b64259c92989c68aad8631439eeed0a0a2f97a936c3a6eda5eb3fd5c5ad",
+          "sort_order": 0,
+          "width_px": 1499
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose9",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_152322.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/c28bc4a3d0a42559938d/000-0a65c26fe78f460a.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "0a65c26fe78f460a0ec37753f54a08b18640c371e1162dcf264ffb4d81b33ef2",
+          "sort_order": 0,
+          "width_px": 1499
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose3",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_152333.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/57392ccc9ff3699e9a29/000-da921405f7684659.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "da921405f768465962c3ff6584e09523de7b3e6e8a71de6d46b0c3b02fea1f0b",
+          "sort_order": 0,
+          "width_px": 1466
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose4",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_152343.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/7ce8359f3e417640eb65/000-96033eaf8c140aa2.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "96033eaf8c140aa2427c8d4d374860c4c2bfe26386aa521e2b32cfedfd1355a8",
+          "sort_order": 0,
+          "width_px": 1420
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose5",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_152356.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/15a58fb64d6eb68345e9/000-dfde2c772cffefd0.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "dfde2c772cffefd055ef91b4b7b5ec9db4cf13c5b361021192ee42b68d4c457b",
+          "sort_order": 0,
+          "width_px": 1500
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose6",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_152406.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/b30bf4923fb0b3305fc6/000-7162304d358a068a.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "7162304d358a068a46d7688e5a7054ba347ac9357de457d585e7f32e262d4211",
+          "sort_order": 0,
+          "width_px": 1499
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose7",
+      "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/AZLR_20211230_152421.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 210.0,
+      "images": [
+        {
+          "file": "media/ac9f099e983e51049baa/000-a015495ee39bd024.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a015495ee39bd0241bca656a8db83a277f90e3165e47dd258c2c46e2e026b2a3",
+          "sort_order": 0,
+          "width_px": 1414
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SERIE metamorphose8",
+      "width_mm": 290.0
+    },
+    {
       "artwork_id": "KALR 00123 ST 232",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encre sur papier",
@@ -1050,6 +2350,32 @@
       "width_mm": 1250.0
     },
     {
+      "artwork_id": "mixte/Zazklr MT250X50_2016 MM.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/530b4eee23ed4099ca50/000-b7f561969e6cf1b3.webp",
+          "height_px": 390,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b7f561969e6cf1b308ae1d0f6887f67e6623ebc6dfcce3ce30ca12d11713f45b",
+          "sort_order": 0,
+          "width_px": 1973
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 2500.0
+    },
+    {
       "artwork_id": "Acrylique/KZA1-77A012014",
       "availability_status": "AVAILABLE",
       "catalog_family": "Acrylique sur toile",
@@ -1074,6 +2400,32 @@
       "technique": "Acrylique",
       "title": "Sans",
       "width_mm": 1000.0
+    },
+    {
+      "artwork_id": "Acrylique/ZLRZ A 260X16082014A.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/e940163b78f91c26cd41/000-734d4e624359cf3d.webp",
+          "height_px": 1043,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "734d4e624359cf3dd0b361c1bc375baa9b2ea5ef6a853259cec6d9173967ff0b",
+          "sort_order": 0,
+          "width_px": 1444
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "Sans",
+      "width_mm": 2600.0
     },
     {
       "artwork_id": "BSL.26082023-001 /002 /003",
@@ -1163,6 +2515,370 @@
       "width_mm": 1600.0
     },
     {
+      "artwork_id": "mixte/ZLRZ A 160X13082014B.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1300.0,
+      "images": [
+        {
+          "file": "media/f09660ec560e210dbdfe/000-9deb7d2c48bc37b1.webp",
+          "height_px": 697,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9deb7d2c48bc37b1091069302fc187579a7a7d63648a0c9c82dddc2009da8177",
+          "sort_order": 0,
+          "width_px": 855
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1600.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 160X13082014C.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1300.0,
+      "images": [
+        {
+          "file": "media/f8ea5b345d8881f0d6ec/000-739237e5c4857d00.webp",
+          "height_px": 419,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "739237e5c4857d00501e29e0cb371f4449cbd487719506f8d8c052763da83768",
+          "sort_order": 0,
+          "width_px": 523
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1600.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 160X13082014EE.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/3effb91ccf702b304640/000-a7c43da2820d9fcf.webp",
+          "height_px": 520,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a7c43da2820d9fcfe83b2b178cd667d5c0128bec7a60a9d3c04b56b14e44e77e",
+          "sort_order": 0,
+          "width_px": 469
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1300.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 240X13082014D.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/d07cd79b05a19815d4bb/000-3b1b1c4d2252a906.webp",
+          "height_px": 401,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "3b1b1c4d2252a906fabcd3227921615c3ad3b86fe6083553d6c7ad5ba0016919",
+          "sort_order": 0,
+          "width_px": 743
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 2600.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 260X16082014AAZ.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/4e4d723f7111b850ea22/000-47d2fb69e72c4696.webp",
+          "height_px": 503,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "47d2fb69e72c46969819e24b42416e58eee0006d57ec8caa07a056e7686cfb9e",
+          "sort_order": 0,
+          "width_px": 699
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 2600.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014FAO.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/21ea2655b2e252f154da/000-3d8621fa13d90095.webp",
+          "height_px": 684,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "3d8621fa13d900951e9148f725a31f2bb6e4af366b67ec61ef145271bd8cf95f",
+          "sort_order": 0,
+          "width_px": 692
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014FAZ.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/57e51f12d959c332c9a7/000-5855cd4939184c9e.webp",
+          "height_px": 504,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "5855cd4939184c9ecc503be1c1d5b74179ba679152860731f779feca8e85c808",
+          "sort_order": 0,
+          "width_px": 452
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014FZ.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/d22837567bac902714fe/000-c0908f6a15440970.webp",
+          "height_px": 682,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c0908f6a154409700dff80afbd11caf1da9edb12e51d1a8dad615d9e3f94f035",
+          "sort_order": 0,
+          "width_px": 611
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014GX.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/b5ecc475d5c5e0d90b1b/000-03281348b15f8a7e.webp",
+          "height_px": 691,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "03281348b15f8a7e51d93ce88ee73d34d859b3022e24265d6f0ed0a53a195e57",
+          "sort_order": 0,
+          "width_px": 619
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014GY.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/96f9fb4a3b731ce66e10/000-38c13b107dff9033.webp",
+          "height_px": 516,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "38c13b107dff90338e381f5756028c487acbf885eef6f5edb36bf9fdf18dfe69",
+          "sort_order": 0,
+          "width_px": 471
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014NN1.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/209432af4c48f781251c/000-c05be34db44de18e.webp",
+          "height_px": 518,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c05be34db44de18e9d42d795a535ee0b107932634ce265679bdcca043db81c31",
+          "sort_order": 0,
+          "width_px": 476
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014NN2.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/5d70cd5005577e5226ce/000-795778ce9e84fafa.webp",
+          "height_px": 515,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "795778ce9e84fafa9bbd6a1f7a9a7105c20238b9b793bcc4b5d27e8abdc3c84a",
+          "sort_order": 0,
+          "width_px": 457
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ A 90X10082014NN3.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/7feaaa87d203976fd9be/000-ff1739cabc217963.webp",
+          "height_px": 513,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ff1739cabc2179632655625403f90985c270e5d6dc2eab86a3bb9af46e1b2d5f",
+          "sort_order": 0,
+          "width_px": 473
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 900.0
+    },
+    {
+      "artwork_id": "mixte/ZLRZ AAA 270X10082014AZ3.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/68cf29185cbd9db3c6d9/000-1bf7a7c68c3a337f.webp",
+          "height_px": 671,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "1bf7a7c68c3a337f7f6154722394a4f4ce1921545a9f14dbb83ec665040f214a",
+          "sort_order": 0,
+          "width_px": 2000
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 2700.0
+    },
+    {
       "artwork_id": "TEMPERA/KLRZ 0122014",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "TEMPERA SUR TOILE",
@@ -1222,6 +2938,32 @@
       "technique": "TEMPERA",
       "title": "Sans",
       "width_mm": 1000.0
+    },
+    {
+      "artwork_id": "TEMPERA/ZLRZ A 90X10082014F.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "TEMPERA SUR TOILE",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/1fc0fb380bce9cfc0101/000-0bdabb7b0eba9354.webp",
+          "height_px": 694,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "0bdabb7b0eba935434098a37b4358dcd8e40ee4ea11a64b703f620dd08572ddd",
+          "sort_order": 0,
+          "width_px": 601
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "TEMPERA",
+      "title": "Sans",
+      "width_mm": 900.0
     },
     {
       "artwork_id": "Acrylique/RAZ 008 -2013-XT1_RAZ 008 -2013-XT2_RAZ 008 -2013-XT3",
