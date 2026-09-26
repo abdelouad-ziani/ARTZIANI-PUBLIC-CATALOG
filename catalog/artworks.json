@@ -1275,6 +1275,188 @@
       "width_mm": 440.0
     },
     {
+      "artwork_id": "Encre/ATFN 29X42X2_ AQP102D.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 580.0,
+      "images": [
+        {
+          "file": "media/6049664f60abe3285a4e/000-c731c157643f9ff2.webp",
+          "height_px": 986,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c731c157643f9ff265e3f128267cdc4f1ce2f69a67433d3a3374b39fe8277ccd",
+          "sort_order": 0,
+          "width_px": 1367
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42X2_ AQP103D.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 580.0,
+      "images": [
+        {
+          "file": "media/3f8cd73141496dfe1a3a/000-91c699add99240c2.webp",
+          "height_px": 1010,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "91c699add99240c2f62445a116233edf36d7fc04e40b35031cbda4cc1bdb48ab",
+          "sort_order": 0,
+          "width_px": 1405
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42X2_ AQP104D.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 580.0,
+      "images": [
+        {
+          "file": "media/ca1817b4c610f041ed07/000-5685420ea556574d.webp",
+          "height_px": 956,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "5685420ea556574d91022b60ecd626c59a3a1f0b3b5109f0959cbcf5d8730ce2",
+          "sort_order": 0,
+          "width_px": 1328
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42X2_ AQP105D.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 580.0,
+      "images": [
+        {
+          "file": "media/922422b5e849c0038ddf/000-db9e5f5fb62039b6.webp",
+          "height_px": 964,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "db9e5f5fb62039b69673c7983a541314de10633123a44746ad6f631bef3b200d",
+          "sort_order": 0,
+          "width_px": 1352
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42X3_ AQP104T.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 870.0,
+      "images": [
+        {
+          "file": "media/a6996216f2800bf3a485/000-c05790c7dccd2f77.webp",
+          "height_px": 822,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c05790c7dccd2f778ef971efd619bffd73a131721ce78d7d913121b33b718820",
+          "sort_order": 0,
+          "width_px": 1776
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42_ AQP100.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/198d0773c5cb48c3d486/000-106978e421ba9b44.webp",
+          "height_px": 674,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "106978e421ba9b44c11b6c060294e407dd820fd2f9e64dda45b64e4ef1d3db7c",
+          "sort_order": 0,
+          "width_px": 454
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42_ AQP101.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/6c22e449f2f17d00d13d/000-8ab2593c4edb5f13.webp",
+          "height_px": 692,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "8ab2593c4edb5f13ee7d5f7b9760573be1f6589f7ea41b700ba0a6ef9080a601",
+          "sort_order": 0,
+          "width_px": 500
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
       "artwork_id": "Encre/AZLR_20220208_092115.jpg",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encre sur papier",
@@ -1559,6 +1741,84 @@
       "technique": "Aquarelle",
       "title": "Sans",
       "width_mm": 405.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42_ AQP102.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/8d130d6b490e45751076/000-25a7fe104aef85b5.webp",
+          "height_px": 688,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "25a7fe104aef85b5b28035ea9a07f2848e917b202d88e877860ca01f752c48cb",
+          "sort_order": 0,
+          "width_px": 469
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42_ AQP103.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/9f33a0b9961bcbd3799e/000-a82de37f123e4024.webp",
+          "height_px": 678,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a82de37f123e40244dd7f83067c5d054095c87c953a2e6a65e67c9b0e636bd34",
+          "sort_order": 0,
+          "width_px": 472
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ATFN 29X42_ AQP104.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/9ab5600bdd2a336ace2b/000-ea7c07943b9e1d21.webp",
+          "height_px": 682,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ea7c07943b9e1d2166d952a8c57faeea290ed996cb3bc1367ad62e3524b9e817",
+          "sort_order": 0,
+          "width_px": 477
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "Sans",
+      "width_mm": 420.0
     },
     {
       "artwork_id": "Encre/YS 001 2021",
@@ -2966,6 +3226,58 @@
       "width_mm": 900.0
     },
     {
+      "artwork_id": "Acrylique/AZ-2013-A003.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1000.0,
+      "images": [
+        {
+          "file": "media/bd6f259f93f1deac3aba/000-1e2aa9f3ed1a3275.webp",
+          "height_px": 756,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "1e2aa9f3ed1a3275a564a5c379b2ddd6fd900d8e7eeed353f7b9db983f070754",
+          "sort_order": 0,
+          "width_px": 1384
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2013,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 1460.0
+    },
+    {
+      "artwork_id": "Acrylique/AZ-2013-A006.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 610.0,
+      "images": [
+        {
+          "file": "media/baaa5b38fb3dd7be0328/000-a66b12f7cdabc83a.webp",
+          "height_px": 800,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a66b12f7cdabc83accc92e9c5f31fe2f63aa8fa44e5d310f850a830ca44b1ea5",
+          "sort_order": 0,
+          "width_px": 1045
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2013,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 810.0
+    },
+    {
       "artwork_id": "Acrylique/RAZ 008 -2013-XT1_RAZ 008 -2013-XT2_RAZ 008 -2013-XT3",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Acrylique sur toile",
@@ -2992,6 +3304,32 @@
       "width_mm": 1800.0
     },
     {
+      "artwork_id": "Acrylique/AZ-2012-A001.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/b4935880c15188beb131/000-5f3c77079615e5c8.webp",
+          "height_px": 726,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "5f3c77079615e5c8a4e9f6015fdcb63905a8763f8bc7710751515e85c2142db7",
+          "sort_order": 0,
+          "width_px": 1176
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2012,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 1000.0
+    },
+    {
       "artwork_id": "Acrylique/AZ-2012-A002",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Acrylique sur toile",
@@ -3016,6 +3354,58 @@
       "technique": "Acrylique",
       "title": "FRACTION",
       "width_mm": 930.0
+    },
+    {
+      "artwork_id": "Acrylique/AZ-2008-A011.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/082f660a4fd2e4d7bb03/000-21384aefb68dd50f.webp",
+          "height_px": 806,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "21384aefb68dd50f28624671b37ec63872d6f9769fc60c5ef9a18e21d1ad6744",
+          "sort_order": 0,
+          "width_px": 583
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2008,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 500.0
+    },
+    {
+      "artwork_id": "Acrylique/AZ-2008-A012.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/6680ccefc46cf73a58c8/000-c3ab33d0e2fd9046.webp",
+          "height_px": 801,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c3ab33d0e2fd90462093a5b56ead92e17ff91232c3f1ee2ad77679a0d91c8db2",
+          "sort_order": 0,
+          "width_px": 631
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2008,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 1000.0
     },
     {
       "artwork_id": "Acrylique/AZ-2008-A013",
@@ -3068,6 +3458,84 @@
       "technique": "Acrylique",
       "title": "CYCLE",
       "width_mm": 440.0
+    },
+    {
+      "artwork_id": "Acrylique/AZ-2008-A016.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/65b1e84ba3dc26a6f497/000-bab964d37a2a378d.webp",
+          "height_px": 821,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bab964d37a2a378d0e9dfc4ed7bd3dfa685a60d8910aba6987c36dcaa3f665e4",
+          "sort_order": 0,
+          "width_px": 668
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2008,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 500.0
+    },
+    {
+      "artwork_id": "Acrylique/AZ-2008-A035.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/d158958bb9f1ea9d21bc/000-316dfb5df1422ee2.webp",
+          "height_px": 875,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "316dfb5df1422ee26b22f36ad46bb7a2c523e58064b6a18cb5afaab6be76e017",
+          "sort_order": 0,
+          "width_px": 620
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2008,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 500.0
+    },
+    {
+      "artwork_id": "Acrylique/AZ-2008-A037.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 700.0,
+      "images": [
+        {
+          "file": "media/2f3e263e95f089298154/000-48663a07e0d8729d.webp",
+          "height_px": 873,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "48663a07e0d8729de9aaa92e60a1993701a4b93e276cedadb519c3b860a3d065",
+          "sort_order": 0,
+          "width_px": 583
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2008,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": null,
+      "width_mm": 1000.0
     },
     {
       "artwork_id": "Acrylique/AZ-2008-A046",
