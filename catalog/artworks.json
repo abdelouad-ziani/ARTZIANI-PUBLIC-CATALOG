@@ -2220,6 +2220,84 @@
       "width_mm": 290.0
     },
     {
+      "artwork_id": "Acrylique/AKLP30-AT90X70-2016.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/f782f03d96712a99ac93/000-94347faffa9488f5.webp",
+          "height_px": 476,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "94347faffa9488f537329536c7041e6090bec1334fab2baef65e5f6ac9dffb4f",
+          "sort_order": 0,
+          "width_px": 628
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "Sans",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Acrylique/AKLP31-AT 90X100-2016.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/9c68c3620a86fdc6b76f/000-422673491ff9cbfd.webp",
+          "height_px": 510,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "422673491ff9cbfdbee932eb98e3580f54b03695076703bd7e0188f9e9eab113",
+          "sort_order": 0,
+          "width_px": 465
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "Sans",
+      "width_mm": 1000.0
+    },
+    {
+      "artwork_id": "Acrylique/AKLP32-AT 90X100-2016.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/6ec9085726f3b6f488bd/000-83a7a3b8a14a47e9.webp",
+          "height_px": 572,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "83a7a3b8a14a47e90451401155bc76fb1ed627f3b2bc40ff57bd7058792560b4",
+          "sort_order": 0,
+          "width_px": 712
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "Sans",
+      "width_mm": 1000.0
+    },
+    {
       "artwork_id": "Acrylique/ref yia 001 2016",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Acrylique sur toile",
@@ -3414,6 +3492,58 @@
       "technique": "AQUARELLE",
       "title": "SANS",
       "width_mm": 290.0
+    },
+    {
+      "artwork_id": "mixte/AKLP29-MT 97X130-2016.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 970.0,
+      "images": [
+        {
+          "file": "media/cf36488b304104656e3b/000-c3e3927323cd20ca.webp",
+          "height_px": 470,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c3e3927323cd20cae84f57c2dd71202aff252228b029b813f94cd71e08172aef",
+          "sort_order": 0,
+          "width_px": 659
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1300.0
+    },
+    {
+      "artwork_id": "mixte/AKLP33-MT 180X100-2016.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1800.0,
+      "images": [
+        {
+          "file": "media/6480bcfe593bfe99a89c/000-d49cfaf8eca2e30e.webp",
+          "height_px": 474,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d49cfaf8eca2e30ebbe65aa60ae776a125fe2befd7cb244181e56ddbaca67cb1",
+          "sort_order": 0,
+          "width_px": 879
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "Sans",
+      "width_mm": 1000.0
     },
     {
       "artwork_id": "mixte/F.S.M-0017-A1",
@@ -4709,7 +4839,7 @@
     },
     {
       "artwork_id": "Acrylique/AZ-2008-H004-81X61-HT-BATISSEUR.png",
-      "availability_status": "AVAILABLE",
+      "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Acrylique sur toile",
       "depth_mm": null,
       "diameter_mm": null,
