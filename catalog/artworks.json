@@ -1,6 +1,84 @@
 {
   "artworks": [
     {
+      "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS01.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Bas-relief",
+      "depth_mm": 60.0,
+      "diameter_mm": null,
+      "height_mm": 400.0,
+      "images": [
+        {
+          "file": "media/412ea1e4160419e5ea9b/000-ab8e4587f96b5be6.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ab8e4587f96b5be6bf569231d341ec89a5282f7be388839de129c2d8d877b999",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Gravure",
+      "title": "METAMORPHOSE 01",
+      "width_mm": 500.0
+    },
+    {
+      "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS02.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Bas-relief",
+      "depth_mm": 60.0,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/320f2f85b7b8d1ffca40/000-e47be0614db3d4e9.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e47be0614db3d4e9802fad223e4e60d2eeee991507d083bdb6f7d6768d08c5fa",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Gravure",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS03.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Bas-relief",
+      "depth_mm": 60.0,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/aee92852a6c3b48a423b/000-255ec1cd168b6d22.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "255ec1cd168b6d22e177f0c455402e20db5e4a2af9ff0d66ca7f20ab29fda690",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Gravure",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
       "artwork_id": "Encaustique/AZA M 1C2VBX33GUERRE",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -4657,7 +4735,7 @@
     },
     {
       "artwork_id": "Acrylique/AZ-2008-A015-81X55-AT-CYCLE.png",
-      "availability_status": "AVAILABLE",
+      "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Acrylique sur toile",
       "depth_mm": null,
       "diameter_mm": null,
@@ -4914,32 +4992,6 @@
       "technique": "Acrylique",
       "title": "SANS",
       "width_mm": 700.0
-    },
-    {
-      "artwork_id": "Acrylique/KZA2-77A022008",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 900.0,
-      "images": [
-        {
-          "file": "media/b2deef51c11ebca9f1eb/000-ca04445e9b663af1.webp",
-          "height_px": 305,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "ca04445e9b663af1ed286b09049982f68f8ddaffdd6da9a6e218efd8171975b6",
-          "sort_order": 0,
-          "width_px": 233
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2008,
-      "support": "toile",
-      "technique": "Acrylique",
-      "title": "Début",
-      "width_mm": 1000.0
     },
     {
       "artwork_id": "KALR 00124 ST 233",
