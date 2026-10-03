@@ -79,6 +79,32 @@
       "width_mm": 700.0
     },
     {
+      "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS04.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Bas-relief",
+      "depth_mm": 60.0,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/5627bf48d150eb0936bc/000-fcd456fad4e465d5.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fcd456fad4e465d5d5dbe1fbee4988030dc57c59646e446f33eb45c485ac4a0a",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Gravure",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
       "artwork_id": "Encaustique/AZA M 1C2VBX33GUERRE",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -288,7 +314,7 @@
     },
     {
       "artwork_id": "Encaustique/AAZ 082024 ENC001ACH",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
       "depth_mm": null,
       "diameter_mm": null,
