@@ -209,6 +209,110 @@
       "width_mm": 650.0
     },
     {
+      "artwork_id": "Autre/mob  250706 aaz1.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mobilier design ARTZIANI",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 2000.0,
+      "images": [
+        {
+          "file": "media/7fec0639367d2d2b9c63/000-4dc316b18cffec36.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "4dc316b18cffec36788b6332d439c58262eb96435e0618ff98418ef3af8e6aef",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Autre",
+      "technique": "Autre",
+      "title": "SANS",
+      "width_mm": 2000.0
+    },
+    {
+      "artwork_id": "Autre/mob  250706 aaz2.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mobilier design ARTZIANI",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 2300.0,
+      "images": [
+        {
+          "file": "media/10721da2b1e357c45a8e/000-671c29b8cfd46493.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "671c29b8cfd4649321da6202a3ea4d50d4a0bda40b4991b27a631e51472f1678",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Autre",
+      "technique": "Autre",
+      "title": "SANS",
+      "width_mm": 1800.0
+    },
+    {
+      "artwork_id": "Autre/mob  250706 aaz4.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mobilier design ARTZIANI",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 800.0,
+      "images": [
+        {
+          "file": "media/4c79fb4854573e451de5/000-23692bd3794c09da.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "23692bd3794c09da050707bebaa58683d8b5f6ffbf626b290cbc92239a57f5ac",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Autre",
+      "technique": "Autre",
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "Autre/mob  250706 aaz5.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mobilier design ARTZIANI",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 2000.0,
+      "images": [
+        {
+          "file": "media/838b86231526fd3cfa5b/000-c5bb7739380e125b.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c5bb7739380e125bc5fb9e9c3857b85146cc8e7e68f745d257654245a522fa20",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Autre",
+      "technique": "Autre",
+      "title": "SANS",
+      "width_mm": 2500.0
+    },
+    {
       "artwork_id": "Aquarelle/IBN.AR.17152BI",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Aquarelle sur papier",
