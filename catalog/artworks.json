@@ -212,7 +212,7 @@
       "artwork_id": "Autre/mob  250706 aaz1.png",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Mobilier design ARTZIANI",
-      "depth_mm": null,
+      "depth_mm": 35.0,
       "diameter_mm": null,
       "height_mm": 2000.0,
       "images": [
@@ -238,7 +238,7 @@
       "artwork_id": "Autre/mob  250706 aaz2.png",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Mobilier design ARTZIANI",
-      "depth_mm": null,
+      "depth_mm": 35.0,
       "diameter_mm": null,
       "height_mm": 2300.0,
       "images": [
@@ -264,7 +264,7 @@
       "artwork_id": "Autre/mob  250706 aaz4.png",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Mobilier design ARTZIANI",
-      "depth_mm": null,
+      "depth_mm": 35.0,
       "diameter_mm": null,
       "height_mm": 800.0,
       "images": [
@@ -290,7 +290,7 @@
       "artwork_id": "Autre/mob  250706 aaz5.png",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Mobilier design ARTZIANI",
-      "depth_mm": null,
+      "depth_mm": 35.0,
       "diameter_mm": null,
       "height_mm": 2000.0,
       "images": [
@@ -300,6 +300,32 @@
           "mime_type": "image/webp",
           "role": "PRIMARY",
           "sha256": "c5bb7739380e125bc5fb9e9c3857b85146cc8e7e68f745d257654245a522fa20",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Autre",
+      "technique": "Autre",
+      "title": "SANS",
+      "width_mm": 2500.0
+    },
+    {
+      "artwork_id": "Autre/mob  250706 aaz6.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mobilier design ARTZIANI",
+      "depth_mm": 35.0,
+      "diameter_mm": null,
+      "height_mm": 2000.0,
+      "images": [
+        {
+          "file": "media/43492b8297863219b1c7/000-b167698b14ce3377.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b167698b14ce33777e24f737a4206608da3a9a133e337651ff2b2757862d1e6b",
           "sort_order": 0,
           "width_px": 1448
         }
