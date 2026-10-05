@@ -392,7 +392,7 @@
     },
     {
       "artwork_id": "Sculpture/MTAZLLK_250526_XX7.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "ON_REQUEST",
       "catalog_family": "Sculpture",
       "depth_mm": 100.0,
       "diameter_mm": null,
@@ -444,7 +444,7 @@
     },
     {
       "artwork_id": "Sculpture/Sculpt_AZKLR_05052026 TH 35x45-Z0026.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "ON_REQUEST",
       "catalog_family": "Sculpture",
       "depth_mm": 100.0,
       "diameter_mm": null,
