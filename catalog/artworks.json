@@ -408,7 +408,7 @@
           "width_px": 1122
         }
       ],
-      "materials": null,
+      "materials": "thuya",
       "orientation": null,
       "production_year": 2026,
       "support": "Bois",
@@ -434,7 +434,7 @@
           "width_px": 1166
         }
       ],
-      "materials": null,
+      "materials": "Bois thuya",
       "orientation": null,
       "production_year": 2026,
       "support": "Bois",
