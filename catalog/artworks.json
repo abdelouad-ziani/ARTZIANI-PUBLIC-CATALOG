@@ -339,6 +339,136 @@
       "width_mm": 2500.0
     },
     {
+      "artwork_id": "Sculpture/Struct_metal - bronze-argent- AZ 50x80-azklr-0027.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "STRUCTURE METALLIQUE",
+      "depth_mm": 150.0,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/3190367c8a8ef419d3ce/000-944dda12c7bdf743.webp",
+          "height_px": 1537,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "944dda12c7bdf743eb350a962d8d1f85776d77fca3c458756d25b969f51a68bb",
+          "sort_order": 0,
+          "width_px": 1023
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bronze",
+      "technique": "Sculpture",
+      "title": "SANS",
+      "width_mm": 800.0
+    },
+    {
+      "artwork_id": "Sculpture/Struct_metal - bronze-argent- AZ 50x80-azklr-0028 .png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "STRUCTURE METALLIQUE",
+      "depth_mm": 150.0,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/34004b52609e097d1086/000-3139704525078737.webp",
+          "height_px": 1537,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "31397045250787373d77eb4d77bcacfcbf8d3f3a526369f6b641243a4f4a03a2",
+          "sort_order": 0,
+          "width_px": 1023
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bronze",
+      "technique": "Sculpture",
+      "title": "SANS",
+      "width_mm": 800.0
+    },
+    {
+      "artwork_id": "Sculpture/MTAZLLK_250526_XX7.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Sculpture",
+      "depth_mm": 100.0,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/ae3e2f1ab2f0c5e45c12/000-506773bcc154e0e3.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "506773bcc154e0e3b0ae9b95c6bbcb7896dd2bf1d65613b3c2248c7ff782dd52",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Sculpture",
+      "title": "SANS",
+      "width_mm": 450.0
+    },
+    {
+      "artwork_id": "Sculpture/Sculpt_AZKLR_05052026 TH 35x45-Z0025.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Sculpture",
+      "depth_mm": 100.0,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/e2996ad0d82c8d2c3ab2/000-6122839df0b646db.webp",
+          "height_px": 1349,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "6122839df0b646db6be5f1682d8e5c24c725a4a857f4b134c1017a5b0d0262c1",
+          "sort_order": 0,
+          "width_px": 1166
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Sculpture",
+      "title": "SANS",
+      "width_mm": 450.0
+    },
+    {
+      "artwork_id": "Sculpture/Sculpt_AZKLR_05052026 TH 35x45-Z0026.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Sculpture",
+      "depth_mm": 100.0,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/970896cec40f349edb0d/000-15fe7584399646b4.webp",
+          "height_px": 1492,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "15fe7584399646b4946688d547566aca4bca8703ecc5a8fb2cf0e0c9c700213d",
+          "sort_order": 0,
+          "width_px": 1054
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Sculpture",
+      "title": "SANS",
+      "width_mm": 450.0
+    },
+    {
       "artwork_id": "Aquarelle/IBN.AR.17152BI",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Aquarelle sur papier",

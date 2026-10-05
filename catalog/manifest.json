@@ -1,10 +1,10 @@
 {
-  "artwork_count": 198,
-  "content_sha256": "8b1d5ff019c8e1cbd1633cd37bd1ba2598b39373b56f855c1b5b9f5791d63275",
+  "artwork_count": 203,
+  "content_sha256": "62a22f0051f3b5874190954251734a4e7109576acf8a5b1f98f94a11717141e8",
   "files": {
     "artworks.json": {
-      "file_size": 155084,
-      "sha256": "ffd6878bd0a7395811bcca35db625f5bceeeb6a0da3fbe88238ae76a5b85ad69"
+      "file_size": 159084,
+      "sha256": "81338138068ad0f79d44b1446ca1ad2dbb40704cafec0fb98ac2f916fafe9d6e"
     },
     "media/0113c01d6c7961fbf547/000-d52322da7929f810.webp": {
       "file_size": 109660,
@@ -126,6 +126,10 @@
       "file_size": 701000,
       "sha256": "ea7ddfc248e351caa81e700a01da23456911a4e38c8fef1fb541e64f782824e2"
     },
+    "media/3190367c8a8ef419d3ce/000-944dda12c7bdf743.webp": {
+      "file_size": 317416,
+      "sha256": "944dda12c7bdf743eb350a962d8d1f85776d77fca3c458756d25b969f51a68bb"
+    },
     "media/320f2f85b7b8d1ffca40/000-e47be0614db3d4e9.webp": {
       "file_size": 375324,
       "sha256": "e47be0614db3d4e9802fad223e4e60d2eeee991507d083bdb6f7d6768d08c5fa"
@@ -133,6 +137,10 @@
     "media/328e4cbd146ad3af8a0e/000-c85707d9c754cc39.webp": {
       "file_size": 453826,
       "sha256": "c85707d9c754cc39b5d37adf936b01b6c696f4a47bd1f1e7734866022e1b20e5"
+    },
+    "media/34004b52609e097d1086/000-3139704525078737.webp": {
+      "file_size": 280840,
+      "sha256": "31397045250787373d77eb4d77bcacfcbf8d3f3a526369f6b641243a4f4a03a2"
     },
     "media/357a485d9a07cad7adfc/000-17efb4e3b160e700.webp": {
       "file_size": 64922,
@@ -462,6 +470,10 @@
       "file_size": 62012,
       "sha256": "38c13b107dff90338e381f5756028c487acbf885eef6f5edb36bf9fdf18dfe69"
     },
+    "media/970896cec40f349edb0d/000-15fe7584399646b4.webp": {
+      "file_size": 382472,
+      "sha256": "15fe7584399646b4946688d547566aca4bca8703ecc5a8fb2cf0e0c9c700213d"
+    },
     "media/9ab5600bdd2a336ace2b/000-ea7c07943b9e1d21.webp": {
       "file_size": 132910,
       "sha256": "ea7c07943b9e1d2166d952a8c57faeea290ed996cb3bc1367ad62e3524b9e817"
@@ -533,6 +545,10 @@
     "media/ad2294b57dd8f410c8e5/000-116d296338105043.webp": {
       "file_size": 44276,
       "sha256": "116d296338105043f09f4731b6a33ddb02fb825b3a996acca9b835baab22acd1"
+    },
+    "media/ae3e2f1ab2f0c5e45c12/000-506773bcc154e0e3.webp": {
+      "file_size": 276064,
+      "sha256": "506773bcc154e0e3b0ae9b95c6bbcb7896dd2bf1d65613b3c2248c7ff782dd52"
     },
     "media/ae8b1d6b4e58f6fb61ab/000-963607f8d7acd7f2.webp": {
       "file_size": 283164,
@@ -726,6 +742,10 @@
       "file_size": 301290,
       "sha256": "019e7b64259c92989c68aad8631439eeed0a0a2f97a936c3a6eda5eb3fd5c5ad"
     },
+    "media/e2996ad0d82c8d2c3ab2/000-6122839df0b646db.webp": {
+      "file_size": 326818,
+      "sha256": "6122839df0b646db6be5f1682d8e5c24c725a4a857f4b134c1017a5b0d0262c1"
+    },
     "media/e36742f17392f8b22fd7/000-53c4fe7cb597e20d.webp": {
       "file_size": 770468,
       "sha256": "53c4fe7cb597e20d10e828e28f0221b96cefd4f60b2a661c06493d1647dbc550"
@@ -811,9 +831,9 @@
       "sha256": "1f2cdba05ba099e3b38dbd9749a8e040fb94ba419fd1d11ce7914435a595dc51"
     }
   },
-  "generated_at": "2026-10-04T14:32:01.345396+00:00",
+  "generated_at": "2026-10-05T01:28:39.184480+00:00",
   "generator": "ARTZIANI catalog public export",
   "generator_version": "catalog-export-1",
-  "media_count": 201,
+  "media_count": 206,
   "schema_version": "1.0"
 }
