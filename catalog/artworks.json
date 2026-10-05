@@ -2,7 +2,7 @@
   "artworks": [
     {
       "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS01.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Bas-relief",
       "depth_mm": 60.0,
       "diameter_mm": null,
@@ -28,7 +28,7 @@
     },
     {
       "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS02.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Bas-relief",
       "depth_mm": 60.0,
       "diameter_mm": null,
@@ -54,7 +54,7 @@
     },
     {
       "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS03.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Bas-relief",
       "depth_mm": 60.0,
       "diameter_mm": null,
@@ -80,7 +80,7 @@
     },
     {
       "artwork_id": "Gravure/GRAVURE-THY00-12 06 05 26-50X70-DEARS04.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Bas-relief",
       "depth_mm": 60.0,
       "diameter_mm": null,
@@ -210,7 +210,7 @@
     },
     {
       "artwork_id": "Autre/mob  250706 aaz1.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Mobilier design ARTZIANI",
       "depth_mm": 35.0,
       "diameter_mm": null,
@@ -236,7 +236,7 @@
     },
     {
       "artwork_id": "Autre/mob  250706 aaz2.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Mobilier design ARTZIANI",
       "depth_mm": 35.0,
       "diameter_mm": null,
@@ -262,7 +262,7 @@
     },
     {
       "artwork_id": "Autre/mob  250706 aaz4.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Mobilier design ARTZIANI",
       "depth_mm": 35.0,
       "diameter_mm": null,
@@ -288,7 +288,7 @@
     },
     {
       "artwork_id": "Autre/mob  250706 aaz5.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Mobilier design ARTZIANI",
       "depth_mm": 35.0,
       "diameter_mm": null,
@@ -314,7 +314,7 @@
     },
     {
       "artwork_id": "Autre/mob  250706 aaz6.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Mobilier design ARTZIANI",
       "depth_mm": 35.0,
       "diameter_mm": null,
@@ -339,15 +339,15 @@
       "width_mm": 2500.0
     },
     {
-      "artwork_id": "Sculpture/Struct_metal - bronze-argent- AZ 50x80-azklr-0027.png",
-      "availability_status": "NOT_AVAILABLE",
+      "artwork_id": "Structure/Struct_metal - bronze-argent- AZ 50x80-azklr-0027.png",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "STRUCTURE METALLIQUE",
       "depth_mm": 150.0,
       "diameter_mm": null,
       "height_mm": 500.0,
       "images": [
         {
-          "file": "media/3190367c8a8ef419d3ce/000-944dda12c7bdf743.webp",
+          "file": "media/34bd5bc72ea39c320b72/000-944dda12c7bdf743.webp",
           "height_px": 1537,
           "mime_type": "image/webp",
           "role": "PRIMARY",
@@ -360,20 +360,20 @@
       "orientation": null,
       "production_year": 2026,
       "support": "Bronze",
-      "technique": "Sculpture",
+      "technique": "Structure",
       "title": "SANS",
       "width_mm": 800.0
     },
     {
-      "artwork_id": "Sculpture/Struct_metal - bronze-argent- AZ 50x80-azklr-0028 .png",
-      "availability_status": "NOT_AVAILABLE",
+      "artwork_id": "Structure/Struct_metal - bronze-argent- AZ 50x80-azklr-0028 .png",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "STRUCTURE METALLIQUE",
       "depth_mm": 150.0,
       "diameter_mm": null,
       "height_mm": 500.0,
       "images": [
         {
-          "file": "media/34004b52609e097d1086/000-3139704525078737.webp",
+          "file": "media/69a1462069b2720a1642/000-3139704525078737.webp",
           "height_px": 1537,
           "mime_type": "image/webp",
           "role": "PRIMARY",
@@ -386,13 +386,13 @@
       "orientation": null,
       "production_year": 2026,
       "support": "Bronze",
-      "technique": "Sculpture",
+      "technique": "Structure",
       "title": "SANS",
       "width_mm": 800.0
     },
     {
       "artwork_id": "Sculpture/MTAZLLK_250526_XX7.png",
-      "availability_status": "ON_REQUEST",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Sculpture",
       "depth_mm": 100.0,
       "diameter_mm": null,
@@ -418,7 +418,7 @@
     },
     {
       "artwork_id": "Sculpture/Sculpt_AZKLR_05052026 TH 35x45-Z0025.png",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Sculpture",
       "depth_mm": 100.0,
       "diameter_mm": null,
@@ -444,7 +444,7 @@
     },
     {
       "artwork_id": "Sculpture/Sculpt_AZKLR_05052026 TH 35x45-Z0026.png",
-      "availability_status": "ON_REQUEST",
+      "availability_status": "VIRTUAL_IMAGE_ON_REQUEST",
       "catalog_family": "Sculpture",
       "depth_mm": 100.0,
       "diameter_mm": null,
