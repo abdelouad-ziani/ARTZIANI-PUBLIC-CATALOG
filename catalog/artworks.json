@@ -105,6 +105,552 @@
       "width_mm": 700.0
     },
     {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y001.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/7f0cd0f87d201c62a0b6/000-bfe7984cb473a8c2.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bfe7984cb473a8c24020bfa29ef263780f861eb45f90d2fe3541d90208b590e5",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y002.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/f7ad3a19e99ed38614b0/000-e63835ac37099ef1.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e63835ac37099ef192a314164cd45a1e2419784210023041297631fd665be248",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y003.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/2fcebda988a5749a5a7f/000-c19863e2bed3b522.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c19863e2bed3b522f15f0c6cf7a4b5d46df9d4e8da3a95f1a4ed2492bb3c3ca7",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y004.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/ec5c22fe561c00dbe831/000-91ceacf14c19e27b.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "91ceacf14c19e27b6cbb186e8f26927ff657b8cb8c580b8dc63322dc7e4b5895",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y005.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/22b20dd365c98ef16f42/000-b061f7cd9c1415fc.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b061f7cd9c1415fc6f6341d8987fe4537240d887bb795473b520e18e42bd0f54",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y006.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/faa34f40bd43c3a5e9e3/000-e5a7d2d1a0408c18.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e5a7d2d1a0408c18bd98ab33fef999d0dc950a0bb314baf1cac3e47b53e8e897",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y007.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/ba5a2f2e7a4ae6adfc78/000-bf1f8b79cd0b4842.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bf1f8b79cd0b4842b06bfb57b2b30d9d82bcf1b75a9cf4fb7c185be995903418",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y008.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/5f1b74e63939d8093d42/000-db8391bfa7220878.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "db8391bfa7220878d5561a9754537b42738859fffcfbcc2efa8fbfad32e2d741",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y009.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/593cf3bdb653834907ab/000-11c4a8b7a04fa212.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "11c4a8b7a04fa212d9c50b61f10fa7f45ea8dd18eb805230b09abfdc15ea2970",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y010.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/ff228160d2f0effe58e1/000-807ce0dec66027aa.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "807ce0dec66027aa14777d7d25d37a4ae7bb97c1a19302b3febbe0a8f1d008bf",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y011.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/da90a422a36be78d5ec9/000-114b69b4f1682ad4.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "114b69b4f1682ad41b92e7e8126e03d7c8e68f2b0e682f2f5ec2aae22e0a7149",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y012.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/bc33d19e083dd9e39ec8/000-3ccb615e5365a79a.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "3ccb615e5365a79ad4845a57d74a0e138dc82de86e6b18fc99d0ac0767f7425b",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y013.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/9cf9a766b56491b0ee2c/000-29b10c6de15f7d8c.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "29b10c6de15f7d8c71913585ad122dee5d3619af3f62eedd4a0d1776e5fdbea3",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y014.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/e7998510e97b13b6dfeb/000-eb4b2876fe87a93d.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "eb4b2876fe87a93d1f38323bcf093b1b1e172c7d26d2f90b2ad5bbdea3cf2bd9",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y015.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/88330b5f125b44c789a3/000-61d1d5909ad74c3a.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "61d1d5909ad74c3acc35428276e39cbd5fd4cf31956de24521272936114db562",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y016.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/ce1dc3a0778a281cb0aa/000-271ac875e9069886.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "271ac875e9069886f7d0b955fb983017e3591f9a94934cb2eb19dcc29271f51d",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y017.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/b1ea67acb0768feccd15/000-14dd47b0a8c114ac.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "14dd47b0a8c114ac49d975cbaaae6acf1a53d283eb5abc79e6321a4e06d63288",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y018.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/3bfe391889a60555ae9b/000-f377c8106b73bd1e.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "f377c8106b73bd1efb9d7656e2e7fbbca3d9b1958517c53e9c31075b3a574349",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y019.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/54949652af659ffaaa41/000-43e67d53d1b427fc.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "43e67d53d1b427fc1e8079d311786930acc0cebaebcf34eb4e91a2afc3c9893d",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y020.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/61c8f600d369e2e75ef8/000-b81797339f53e174.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b81797339f53e174dbb40067abe785aa3567af8853f07d0e5d99ddaa98eeaf38",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/BBB_ENC_2026_35X35 Y022.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 2100.0,
+      "images": [
+        {
+          "file": "media/15f05e3ec6535d156850/000-79bd7be8e8aa23e6.webp",
+          "height_px": 754,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "79bd7be8e8aa23e64f05ce73c0eae83f344d503304ab3eb585856f1ca8f82145",
+          "sort_order": 0,
+          "width_px": 1672
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "bois",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
       "artwork_id": "Encaustique/AZA M 1C2VBX33GUERRE",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -207,6 +753,32 @@
       "technique": "Encaustique",
       "title": "Sans",
       "width_mm": 650.0
+    },
+    {
+      "artwork_id": "/BBB_MT_2014_160X25X4 F00903.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/904ee639937c4f15d38e/000-16d416604f26515b.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "16d416604f26515b9dfac0cb5a44a98473087569eb304844771f680a81dcc110",
+          "sort_order": 0,
+          "width_px": 667
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 250.0
     },
     {
       "artwork_id": "Autre/mob  250706 aaz1.png",
@@ -3988,6 +4560,84 @@
       "width_mm": 2500.0
     },
     {
+      "artwork_id": "/AAA_MT_2015_35X35 ZZZ002.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/99c9ebc4e61715fe03e0/000-d57089b9b82d5c99.webp",
+          "height_px": 1122,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d57089b9b82d5c9918b7dbaa05edd691ea6eef447ee7a2e648e65e54d11dedff",
+          "sort_order": 0,
+          "width_px": 1402
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2015,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/AAA_MT_2015_35X50 ZZZ001.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/28797d0b9e2e114ee742/000-feab621bfe56109b.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "feab621bfe56109b988d54b3e0412106d17396508c6f06d236bfd31b54abb581",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2015,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "/AAA_MT_2015_45X50 ZZZ003.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 450.0,
+      "images": [
+        {
+          "file": "media/2c11f0dc8f33f09f6750/000-84cd23331257ae02.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "84cd23331257ae0232acbafe67855a600d1f96dbd64e4ed6b50cafefd75d08b8",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2015,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 500.0
+    },
+    {
       "artwork_id": "MIXTE/AKLP34-MT 2015.PNG",
       "availability_status": "AVAILABLE",
       "catalog_family": "Mixte sur toile",
@@ -4012,6 +4662,58 @@
       "technique": "MIXTE",
       "title": "Sans",
       "width_mm": 320.0
+    },
+    {
+      "artwork_id": "/AAA_AT_2014_180X160 ZZZ0014.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1800.0,
+      "images": [
+        {
+          "file": "media/3c3a75046edf37ffa9ac/000-b62cef14f70ad3be.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b62cef14f70ad3bebed3d373a343ee725ff6b43864653af008a3c900727c54c2",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 1600.0
+    },
+    {
+      "artwork_id": "/AAA_AT_2014_90X100 ZZZ0015.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/1d2029dc54b584a018da/000-fe27c49e7796fec7.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fe27c49e7796fec786e4842cdb982ba90afa074d7be1f29e0c58851b33c74cf4",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 1000.0
     },
     {
       "artwork_id": "Acrylique/KZA1-77A012014",
@@ -4125,6 +4827,84 @@
       "technique": "Encre",
       "title": "Sans",
       "width_mm": 700.0
+    },
+    {
+      "artwork_id": "/BBB_MT_2014_160X25X4 F00900.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/4b70046940a2fd79df75/000-8871edee922d2a33.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "8871edee922d2a334c773a6df35d1c3a1384132f2bb9c2f53644cfd37aa85240",
+          "sort_order": 0,
+          "width_px": 667
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 250.0
+    },
+    {
+      "artwork_id": "/BBB_MT_2014_160X25X4 F00901.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/04907d127425a1243e49/000-9ba46a9369a48a19.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9ba46a9369a48a199283610bc29271b7a341b1ca1ccabc9e26b8583a03897c67",
+          "sort_order": 0,
+          "width_px": 667
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 250.0
+    },
+    {
+      "artwork_id": "/BBB_MT_2014_160X25X4 F00902.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/9baecbd6d28d9c710eae/000-08688401b2e745c6.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "08688401b2e745c64a93da2523505db6aa88e74396091828fa8075c9eafaa050",
+          "sort_order": 0,
+          "width_px": 667
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": null,
+      "title": "SANS",
+      "width_mm": 250.0
     },
     {
       "artwork_id": "mixte/KFA3-77A102014. KFA4-77A102014. KFA5-77A102014",
