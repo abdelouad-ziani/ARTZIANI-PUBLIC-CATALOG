@@ -5410,32 +5410,6 @@
       "width_mm": 1800.0
     },
     {
-      "artwork_id": "Acrylique/AZ-2008-Z0051-100X70-AT-SANS.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 700.0,
-      "images": [
-        {
-          "file": "media/eeacc9f5be91406a14a1/000-5f3c77079615e5c8.webp",
-          "height_px": 726,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "5f3c77079615e5c8a4e9f6015fdcb63905a8763f8bc7710751515e85c2142db7",
-          "sort_order": 0,
-          "width_px": 1176
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2012,
-      "support": "toile",
-      "technique": "Acrylique",
-      "title": null,
-      "width_mm": 1000.0
-    },
-    {
       "artwork_id": "Acrylique/AZ-2012-A001.png",
       "availability_status": "AVAILABLE",
       "catalog_family": "Acrylique sur toile",
@@ -5720,32 +5694,6 @@
       "technique": "Acrylique",
       "title": "CYCLE",
       "width_mm": 440.0
-    },
-    {
-      "artwork_id": "Acrylique/AZ-2008-A015-81X55-AT-CYCLE.png",
-      "availability_status": "NOT_AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 810.0,
-      "images": [
-        {
-          "file": "media/04044f9fdad3be3ae029/000-dd9fb178e43577e0.webp",
-          "height_px": 705,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "dd9fb178e43577e054b263592779778888f30edc6d87a599e20a66a365682215",
-          "sort_order": 0,
-          "width_px": 1007
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2008,
-      "support": "TOILE",
-      "technique": "Acrylique",
-      "title": "CYCLE",
-      "width_mm": 610.0
     },
     {
       "artwork_id": "Acrylique/AZ-2008-A016.png",
