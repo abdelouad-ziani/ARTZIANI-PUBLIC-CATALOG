@@ -1042,7 +1042,7 @@
     },
     {
       "artwork_id": "Aquarelle/IBN.AR.17152BI",
-      "availability_status": "NOT_AVAILABLE",
+      "availability_status": "AVAILABLE",
       "catalog_family": "Aquarelle sur papier",
       "depth_mm": null,
       "diameter_mm": null,
@@ -3873,32 +3873,6 @@
           "sha256": "5691d577321705f8fdc44a7b1d6902cbd35a2f92811e2ab8337c237105e0871e",
           "sort_order": 0,
           "width_px": 540
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2016,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "Sans",
-      "width_mm": 320.0
-    },
-    {
-      "artwork_id": "Encre/AKLP30-EP 29X32-2016.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encre sur papier",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 290.0,
-      "images": [
-        {
-          "file": "media/ec2615e695b28831a545/000-94347faffa9488f5.webp",
-          "height_px": 476,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "94347faffa9488f537329536c7041e6090bec1334fab2baef65e5f6ac9dffb4f",
-          "sort_order": 0,
-          "width_px": 628
         }
       ],
       "materials": null,

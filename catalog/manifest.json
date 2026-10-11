@@ -1,10 +1,10 @@
 {
-  "artwork_count": 233,
-  "content_sha256": "db81a0fc3d52e2215466b0b314a0d3d63f52a8546fffbf680b9468dca62aaa22",
+  "artwork_count": 232,
+  "content_sha256": "b7770a884264c3f96ba61c7ce4eb7190cad855fd966e4042f64b030300b0ea74",
   "files": {
     "artworks.json": {
-      "file_size": 182354,
-      "sha256": "764b6c129f4d8d4dd14e9ee87dcbb27e983a9ff49df1cef1445cf3cc6f0f3572"
+      "file_size": 181579,
+      "sha256": "77794855ce487c6f2448e4f3358e2d9a96ece555cfc4f1856e78154db3ef2bc5"
     },
     "media/0113c01d6c7961fbf547/000-d52322da7929f810.webp": {
       "file_size": 109660,
@@ -882,10 +882,6 @@
       "file_size": 38140,
       "sha256": "bf97f08c8c776be7995a8ed5db8a69142526cc0761d2f44e94e9a52f04be6b40"
     },
-    "media/ec2615e695b28831a545/000-94347faffa9488f5.webp": {
-      "file_size": 51004,
-      "sha256": "94347faffa9488f537329536c7041e6090bec1334fab2baef65e5f6ac9dffb4f"
-    },
     "media/ec5c22fe561c00dbe831/000-91ceacf14c19e27b.webp": {
       "file_size": 409276,
       "sha256": "91ceacf14c19e27b6cbb186e8f26927ff657b8cb8c580b8dc63322dc7e4b5895"
@@ -951,9 +947,9 @@
       "sha256": "807ce0dec66027aa14777d7d25d37a4ae7bb97c1a19302b3febbe0a8f1d008bf"
     }
   },
-  "generated_at": "2026-10-08T00:05:12.232724+00:00",
+  "generated_at": "2026-10-11T20:09:58.746172+00:00",
   "generator": "ARTZIANI catalog public export",
   "generator_version": "catalog-export-1",
-  "media_count": 236,
+  "media_count": 235,
   "schema_version": "1.0"
 }
