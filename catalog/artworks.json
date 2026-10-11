@@ -1353,32 +1353,6 @@
       "width_mm": 680.0
     },
     {
-      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A22.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 920.0,
-      "images": [
-        {
-          "file": "media/e4fec50483f7a5c62ef4/000-b4e32cbe8b700320.webp",
-          "height_px": 492,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "b4e32cbe8b7003206d5418a741c69ec7f49401f5e051ddb580c6578a266e0b81",
-          "sort_order": 0,
-          "width_px": 663
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2024,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "Sans",
-      "width_mm": 680.0
-    },
-    {
       "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A23.jpg",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -1706,32 +1680,6 @@
           "sha256": "b4e32cbe8b7003206d5418a741c69ec7f49401f5e051ddb580c6578a266e0b81",
           "sort_order": 0,
           "width_px": 663
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2024,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "Sans",
-      "width_mm": 680.0
-    },
-    {
-      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A65.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 920.0,
-      "images": [
-        {
-          "file": "media/80b8cdf2e98bbf946a49/000-4ab2976ee3023269.webp",
-          "height_px": 499,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "4ab2976ee30232699bb9f1cc326dc7f956a9177270ac705e644c1667c243870d",
-          "sort_order": 0,
-          "width_px": 665
         }
       ],
       "materials": null,
@@ -3911,7 +3859,7 @@
     },
     {
       "artwork_id": "Encre/AKLP32-EP 29X32-2016.jpg",
-      "availability_status": "AVAILABLE",
+      "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encre sur papier",
       "depth_mm": null,
       "diameter_mm": null,
