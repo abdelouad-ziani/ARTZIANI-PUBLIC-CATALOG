@@ -5384,32 +5384,6 @@
       "width_mm": 1460.0
     },
     {
-      "artwork_id": "Acrylique/AZ-2013-A003.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 1000.0,
-      "images": [
-        {
-          "file": "media/bd6f259f93f1deac3aba/000-1e2aa9f3ed1a3275.webp",
-          "height_px": 756,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "1e2aa9f3ed1a3275a564a5c379b2ddd6fd900d8e7eeed353f7b9db983f070754",
-          "sort_order": 0,
-          "width_px": 1384
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2013,
-      "support": "toile",
-      "technique": "Acrylique",
-      "title": null,
-      "width_mm": 1460.0
-    },
-    {
       "artwork_id": "Acrylique/AZ-2013-A006.png",
       "availability_status": "AVAILABLE",
       "catalog_family": "Acrylique sur toile",
