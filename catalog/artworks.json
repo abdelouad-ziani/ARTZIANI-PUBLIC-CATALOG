@@ -3849,6 +3849,136 @@
       "width_mm": 297.0
     },
     {
+      "artwork_id": "HUILE/ICARZM RZ111.JPG",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "HUILE SUR TOILE",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/434ab48f1f79be3b034b/000-8831c9bde420a451.webp",
+          "height_px": 1764,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "8831c9bde420a45168ca818f3b3794850bf2fe91caf7936b978d04723d4d3d5c",
+          "sort_order": 0,
+          "width_px": 2000
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2020,
+      "support": "TOILE",
+      "technique": "HUILE",
+      "title": "SANS",
+      "width_mm": 1000.0
+    },
+    {
+      "artwork_id": "MIXTE/ICAR RZ1.jpg",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/52833496ec6ed6984123/000-a3827dea6d27bcfd.webp",
+          "height_px": 994,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a3827dea6d27bcfdd82135a42b5b2cedb17dff21b372006ca95d08eaed5e80e5",
+          "sort_order": 0,
+          "width_px": 2000
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2020,
+      "support": "TOILE",
+      "technique": "MIXTE",
+      "title": "SANS",
+      "width_mm": 800.0
+    },
+    {
+      "artwork_id": "MIXTE/ICARZM RZ112.jpg",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1080.0,
+      "images": [
+        {
+          "file": "media/7014f109651d7f5c0496/000-a73fe7e37f1dcc6c.webp",
+          "height_px": 1024,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a73fe7e37f1dcc6c6aa0b17a87257a348c6daed46795c41c350e68fa506a9f97",
+          "sort_order": 0,
+          "width_px": 2000
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2020,
+      "support": "TOILE",
+      "technique": "MIXTE",
+      "title": "SANS",
+      "width_mm": 560.0
+    },
+    {
+      "artwork_id": "Encre/ICAR RZVOL EP 50X70_01 .png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/c9120ed8e54396f0d4c4/000-74128e7eb7b55def.webp",
+          "height_px": 1179,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "74128e7eb7b55def1d65cb3dbf25cb87702727a18ced7bb132769aa75c3e71db",
+          "sort_order": 0,
+          "width_px": 908
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2019,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/ICAR RZVOL EP 50X70_02.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/3eeff2153c642a865f1a/000-b6e283c10e044281.webp",
+          "height_px": 1190,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b6e283c10e0442816fbd7cc71315575f2fc6493e3fc4dc5827f1502d07308378",
+          "sort_order": 0,
+          "width_px": 917
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2019,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
       "artwork_id": "Encre/LRZK10112018",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encre sur papier",
