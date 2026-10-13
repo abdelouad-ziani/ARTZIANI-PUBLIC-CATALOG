@@ -243,10 +243,19 @@
       "height_mm": 650.0,
       "images": [
         {
-          "file": "media/8bf0efc7a6358664aac5/000-c0d555dc93c479cd.webp",
-          "height_px": 587,
+          "file": "media/8bf0efc7a6358664aac5/000-c43241ab0f4f60b3.webp",
+          "height_px": 1086,
           "mime_type": "image/webp",
           "role": "PRIMARY",
+          "sha256": "c43241ab0f4f60b3301b30060634105ecf1c770d5b3f88b553c13e635cd70533",
+          "sort_order": 1,
+          "width_px": 1448
+        },
+        {
+          "file": "media/8bf0efc7a6358664aac5/001-c0d555dc93c479cd.webp",
+          "height_px": 587,
+          "mime_type": "image/webp",
+          "role": "SECONDARY",
           "sha256": "c0d555dc93c479cd62f89921fcdc959a10463798f6b1526a4255069470229aca",
           "sort_order": 0,
           "width_px": 643
@@ -1611,6 +1620,240 @@
       "technique": "Encaustique",
       "title": "Sans",
       "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-010.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/e3a7aa81343eb45c198b/000-fff70df515a7b280.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fff70df515a7b280e78b570465c14804b558bc36dfc26e9a6cfe842a30be7db6",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-02.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/6e7fbffb48cc670b6fef/000-e49d450abfe111c7.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e49d450abfe111c7a5dfed51c46c8bb94bf9d7001ea952536bf0f5220d1f71b0",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-03.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/0e71b636793157e998a4/000-39d3a198ec53c046.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "39d3a198ec53c0468e55507fae65aec53bbeb1d4334a4732520e3dceb5852d34",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-04.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/bc8fd67dc5382af22289/000-395f7a1a1e361110.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "395f7a1a1e36111002824a7c9c597437abaa2080e9217e4768453e40e67ac155",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-05.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/c30a169bfe565e77603b/000-9b140c174f29fe0d.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9b140c174f29fe0d0e58abeb2d7675395128916f303b77be8ea251c7fbed0cfd",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-06.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/04c42d3c0f3660687cc2/000-bfe344ac9e79a5fe.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bfe344ac9e79a5fe1498a25629317789aa11247ff3c0867f59beb47634305b88",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-07.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/754e78db8492bf7d2cac/000-568c0ce5b92ec995.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "568c0ce5b92ec99576184ece542d2ad711077255b67019299a11d11206cd0854",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-08.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/12e7d09a71c1849e75c2/000-adbf18c3e8bdd558.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "adbf18c3e8bdd558243744fbf65fcb3c71f8335a3175494a17692bd97212d916",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-09.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 500.0,
+      "images": [
+        {
+          "file": "media/da0832a6dd1a19643910/000-76d7f8be0d41b623.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "76d7f8be0d41b623fc34d36ef46a435329113358d4f7925de3eb4f790cafa6d3",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 700.0
     },
     {
       "artwork_id": "mixte/BBB_MT_2014_160X25X4 F00903.png",
