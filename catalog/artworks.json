@@ -1596,32 +1596,6 @@
       "width_mm": 640.0
     },
     {
-      "artwork_id": "Encaustique/azklr EB65X652026C.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 650.0,
-      "images": [
-        {
-          "file": "media/40aee6445fd8f9532320/000-05396f457efa1c4e.webp",
-          "height_px": 1021,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "05396f457efa1c4ec818ab8c6dc7886c6fa7ff0285c9c9ae0e8ac3ebd756e047",
-          "sort_order": 0,
-          "width_px": 1070
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "Sans",
-      "width_mm": 650.0
-    },
-    {
       "artwork_id": "Encre/AZA M 1C2VBX33x65x65-010.png",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
