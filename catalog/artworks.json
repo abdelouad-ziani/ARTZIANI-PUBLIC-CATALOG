@@ -5245,32 +5245,6 @@
       "width_mm": 320.0
     },
     {
-      "artwork_id": "Encre/AKLP31-EP 29X32-2016.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encre sur papier",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 290.0,
-      "images": [
-        {
-          "file": "media/b37dd49aa800dd296ff8/000-422673491ff9cbfd.webp",
-          "height_px": 510,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "422673491ff9cbfdbee932eb98e3580f54b03695076703bd7e0188f9e9eab113",
-          "sort_order": 0,
-          "width_px": 465
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2016,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "Sans",
-      "width_mm": 320.0
-    },
-    {
       "artwork_id": "Encre/AKLP32-EP 29X32-2016.jpg",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encre sur papier",
