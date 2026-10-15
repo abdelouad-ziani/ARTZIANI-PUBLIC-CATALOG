@@ -1596,6 +1596,32 @@
       "width_mm": 640.0
     },
     {
+      "artwork_id": "Encaustique/azklr EB65X652026C.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/40aee6445fd8f9532320/000-05396f457efa1c4e.webp",
+          "height_px": 1021,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "05396f457efa1c4ec818ab8c6dc7886c6fa7ff0285c9c9ae0e8ac3ebd756e047",
+          "sort_order": 0,
+          "width_px": 1070
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 650.0
+    },
+    {
       "artwork_id": "Encre/AZA M 1C2VBX33x65x65-010.png",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -1828,32 +1854,6 @@
       "technique": "Encre",
       "title": "SANS",
       "width_mm": 700.0
-    },
-    {
-      "artwork_id": "mixte/BBB_MT_2014_160X25X4 F00903.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Mixte sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 1600.0,
-      "images": [
-        {
-          "file": "media/86e41182bb0f3064f774/000-16d416604f26515b.webp",
-          "height_px": 2000,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "16d416604f26515b9dfac0cb5a44a98473087569eb304844771f680a81dcc110",
-          "sort_order": 0,
-          "width_px": 667
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "toile",
-      "technique": "mixte",
-      "title": "SANS",
-      "width_mm": 250.0
     },
     {
       "artwork_id": "Autre/mob  250706 aaz1.png",
@@ -3284,6 +3284,84 @@
       "technique": "mixte",
       "title": "Sans",
       "width_mm": 1600.0
+    },
+    {
+      "artwork_id": "Acrylique/VOL-at-180x80_AA1.jpg",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1800.0,
+      "images": [
+        {
+          "file": "media/7632a2e9a22aeb34c1ec/000-4aff02e07313815d.webp",
+          "height_px": 322,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "4aff02e07313815d610a85a71ad6b8f17e343b1e1d41675bf882b9c64c6c45bb",
+          "sort_order": 0,
+          "width_px": 746
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "SANS",
+      "width_mm": 800.0
+    },
+    {
+      "artwork_id": "Acrylique/VOL-at-180x80_AA2.jpg",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1800.0,
+      "images": [
+        {
+          "file": "media/e5333399d6f0675fc617/000-ca464db9ceb69fdb.webp",
+          "height_px": 410,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ca464db9ceb69fdb460db24ed1512f7b4c64715c854e6c95aba226827bc364ef",
+          "sort_order": 0,
+          "width_px": 924
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "SANS",
+      "width_mm": 800.0
+    },
+    {
+      "artwork_id": "Acrylique/VOL-at-180x80_AA3.jpg",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1800.0,
+      "images": [
+        {
+          "file": "media/691bed03b43133261d1d/000-f2e3cd1e60501ee0.webp",
+          "height_px": 368,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "f2e3cd1e60501ee095cdec6b88c17dcb2f1a11db721e7b3cc50ee63d9c47c375",
+          "sort_order": 0,
+          "width_px": 836
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "SANS",
+      "width_mm": 800.0
     },
     {
       "artwork_id": "Encaustique/KFA-77A052022",
@@ -6151,6 +6229,32 @@
           "mime_type": "image/webp",
           "role": "PRIMARY",
           "sha256": "08688401b2e745c64a93da2523505db6aa88e74396091828fa8075c9eafaa050",
+          "sort_order": 0,
+          "width_px": 667
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "SANS",
+      "width_mm": 250.0
+    },
+    {
+      "artwork_id": "mixte/BBB_MT_2014_160X25X4 F00903.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1600.0,
+      "images": [
+        {
+          "file": "media/86e41182bb0f3064f774/000-16d416604f26515b.webp",
+          "height_px": 2000,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "16d416604f26515b9dfac0cb5a44a98473087569eb304844771f680a81dcc110",
           "sort_order": 0,
           "width_px": 667
         }
