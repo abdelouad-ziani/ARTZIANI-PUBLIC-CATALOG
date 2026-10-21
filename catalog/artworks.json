@@ -270,6 +270,240 @@
       "width_mm": 650.0
     },
     {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-010.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/56e5f854923ec301031c/000-fff70df515a7b280.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fff70df515a7b280e78b570465c14804b558bc36dfc26e9a6cfe842a30be7db6",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-02.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/4833930915e4c85b2c35/000-e49d450abfe111c7.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "e49d450abfe111c7a5dfed51c46c8bb94bf9d7001ea952536bf0f5220d1f71b0",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-03.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/b5bb4dad0e142bef1102/000-39d3a198ec53c046.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "39d3a198ec53c0468e55507fae65aec53bbeb1d4334a4732520e3dceb5852d34",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-04.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/23609aef744089c6ea97/000-395f7a1a1e361110.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "395f7a1a1e36111002824a7c9c597437abaa2080e9217e4768453e40e67ac155",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-05.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/9b8dbc4e7378d551646d/000-9b140c174f29fe0d.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9b140c174f29fe0d0e58abeb2d7675395128916f303b77be8ea251c7fbed0cfd",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-06.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/80a563109ccd5834d884/000-bfe344ac9e79a5fe.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bfe344ac9e79a5fe1498a25629317789aa11247ff3c0867f59beb47634305b88",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-07.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/e189b7478b59204f5645/000-568c0ce5b92ec995.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "568c0ce5b92ec99576184ece542d2ad711077255b67019299a11d11206cd0854",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-08.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/1449c8ba35abb326395c/000-adbf18c3e8bdd558.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "adbf18c3e8bdd558243744fbf65fcb3c71f8335a3175494a17692bd97212d916",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
+      "artwork_id": "Encaustique/AZA M 1C2VBX33x65x65-09.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 650.0,
+      "images": [
+        {
+          "file": "media/71ea8840e6726f20c023/000-76d7f8be0d41b623.webp",
+          "height_px": 1086,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "76d7f8be0d41b623fc34d36ef46a435329113358d4f7925de3eb4f790cafa6d3",
+          "sort_order": 0,
+          "width_px": 1448
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 650.0
+    },
+    {
       "artwork_id": "Encaustique/AZKLR 2026 P 051TEB",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -1620,240 +1854,6 @@
       "technique": "Encaustique",
       "title": "Sans",
       "width_mm": 650.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-010.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 650.0,
-      "images": [
-        {
-          "file": "media/e3a7aa81343eb45c198b/000-fff70df515a7b280.webp",
-          "height_px": 1254,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "fff70df515a7b280e78b570465c14804b558bc36dfc26e9a6cfe842a30be7db6",
-          "sort_order": 0,
-          "width_px": 1254
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 650.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-02.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 650.0,
-      "images": [
-        {
-          "file": "media/6e7fbffb48cc670b6fef/000-e49d450abfe111c7.webp",
-          "height_px": 1254,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "e49d450abfe111c7a5dfed51c46c8bb94bf9d7001ea952536bf0f5220d1f71b0",
-          "sort_order": 0,
-          "width_px": 1254
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 650.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-03.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/0e71b636793157e998a4/000-39d3a198ec53c046.webp",
-          "height_px": 1254,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "39d3a198ec53c0468e55507fae65aec53bbeb1d4334a4732520e3dceb5852d34",
-          "sort_order": 0,
-          "width_px": 1254
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 700.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-04.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/bc8fd67dc5382af22289/000-395f7a1a1e361110.webp",
-          "height_px": 1254,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "395f7a1a1e36111002824a7c9c597437abaa2080e9217e4768453e40e67ac155",
-          "sort_order": 0,
-          "width_px": 1254
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 700.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-05.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/c30a169bfe565e77603b/000-9b140c174f29fe0d.webp",
-          "height_px": 1086,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "9b140c174f29fe0d0e58abeb2d7675395128916f303b77be8ea251c7fbed0cfd",
-          "sort_order": 0,
-          "width_px": 1448
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 700.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-06.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/04c42d3c0f3660687cc2/000-bfe344ac9e79a5fe.webp",
-          "height_px": 1086,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "bfe344ac9e79a5fe1498a25629317789aa11247ff3c0867f59beb47634305b88",
-          "sort_order": 0,
-          "width_px": 1448
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 700.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-07.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/754e78db8492bf7d2cac/000-568c0ce5b92ec995.webp",
-          "height_px": 1086,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "568c0ce5b92ec99576184ece542d2ad711077255b67019299a11d11206cd0854",
-          "sort_order": 0,
-          "width_px": 1448
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 700.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-08.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/12e7d09a71c1849e75c2/000-adbf18c3e8bdd558.webp",
-          "height_px": 1086,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "adbf18c3e8bdd558243744fbf65fcb3c71f8335a3175494a17692bd97212d916",
-          "sort_order": 0,
-          "width_px": 1448
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 700.0
-    },
-    {
-      "artwork_id": "Encre/AZA M 1C2VBX33x65x65-09.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/da0832a6dd1a19643910/000-76d7f8be0d41b623.webp",
-          "height_px": 1086,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "76d7f8be0d41b623fc34d36ef46a435329113358d4f7925de3eb4f790cafa6d3",
-          "sort_order": 0,
-          "width_px": 1448
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "SANS",
-      "width_mm": 700.0
     },
     {
       "artwork_id": "Autre/mob  250706 aaz1.png",
@@ -3213,7 +3213,7 @@
       "catalog_family": "Encre sur papier",
       "depth_mm": null,
       "diameter_mm": null,
-      "height_mm": 300.0,
+      "height_mm": 420.0,
       "images": [
         {
           "file": "media/e70a76b742e32ac56255/000-76caea3850b36d6f.webp",
@@ -3231,7 +3231,7 @@
       "support": "Papier",
       "technique": "Encre",
       "title": "Sans",
-      "width_mm": 420.0
+      "width_mm": 290.0
     },
     {
       "artwork_id": "mixte/YS 009 2023",
@@ -3624,12 +3624,38 @@
       "width_mm": 290.0
     },
     {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2022_ 001.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/bff7dbce61b4f70eca75/000-c2aa4cd4c45018ab.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c2aa4cd4c45018abbc55107724773ab51d32dd74fc21b3446dfaa66e96d2372b",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2022,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
       "artwork_id": "Encre/LRZK112-20012022",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Encre sur papier",
       "depth_mm": null,
       "diameter_mm": null,
-      "height_mm": 300.0,
+      "height_mm": 420.0,
       "images": [
         {
           "file": "media/9b7dff0fd5cc10d2f24f/000-734ee375c13f96b6.webp",
@@ -3647,7 +3673,7 @@
       "support": "Papier",
       "technique": "Encre",
       "title": "Sans",
-      "width_mm": 420.0
+      "width_mm": 290.0
     },
     {
       "artwork_id": "mixte/010KAZLR2022",
@@ -3933,6 +3959,630 @@
       "support": "Papier",
       "technique": "Encre",
       "title": "Sans",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 001.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/bdbe0c7a315e317517bb/000-7fc7d4fb7f40bc48.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "7fc7d4fb7f40bc484bb51a174774a16d3943a7d0c8b91bd75da30113e07465ed",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 003.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/152b5a7b9584f3aac885/000-0c9486f12adbc30d.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "0c9486f12adbc30d0ffcfc37524168ccb5f3840560996104b48e6823ef6d5f99",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 004.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/24ea933f2d0c9bd8f3dc/000-d00b6f406914881d.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d00b6f406914881d7dcac8a90a50215526db286325702938ab5421c4110530c3",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 005.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/9014270104787201f0c3/000-bfb2303fbc196987.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bfb2303fbc196987ea83aa83c53ae577d644d680964515bf9786ff29ebd6a5db",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 006.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/99a122adad965a5164b8/000-d7e738bea78f6d80.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d7e738bea78f6d800e18b812585a8c8e2d0cb31b00b8bc3c1bfc60ed1e354fdc",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 007.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/29101bbf5b895a7e4d52/000-25351a5073c16d83.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "25351a5073c16d839b6b4585a50f5a1620812122ae9fdcf75287eb292050a303",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 008.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/c4ddd43c747ca28b425f/000-54b7ecdc587d1726.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "54b7ecdc587d17263499233fdabffd03a49264bbdeda5b622b26b0d2b3bba014",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 009.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/e3dfc9d7f2d4b28a4d8f/000-f922d1fbb77f7ebf.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "f922d1fbb77f7ebf0242249c7e213f8509e55129377548a0e4588f92b5fb7480",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 010.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/de3f636b67909418e535/000-ebbb6820cfef8e8b.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ebbb6820cfef8e8b2ca21f6ac7c6862cee11f9972ecb0c4ff6fa00b3b0697ad2",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 011.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/a5208d2e56ac23a82e20/000-35a181ffa9be7796.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "35a181ffa9be77962a0e379c2aa9c1d38b20cb818e1baa92a2aa6816b8cf32e4",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 012.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/d41d98b61a718b58fc21/000-aad206e5c66e29e7.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "aad206e5c66e29e7f9fa9ba7cce3306afa21b7aa2b3ff159202a45539c9ade5c",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 013.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/50e21f0bac47ea188d14/000-4b07ea60eadcbaaa.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "4b07ea60eadcbaaa4d65eea28f90458793bc7524701d77caab7befca2e3fa4ff",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 014.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/fecd2a0b83c4736a3ad5/000-f9f9858fa81a5cdf.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "f9f9858fa81a5cdf688345f1551ad5968285a226ff5dd8bbbecd57e2a5f4d54c",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 015.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/6d273efca14bdaf91594/000-d656b9dd4a8659da.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d656b9dd4a8659da1ec5d75383482e68cde7a37cf618b9851bbf6838dc3425a7",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 016.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/26182bc81a202dd5aa78/000-57e0548e52fba607.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "57e0548e52fba607f2200df16590a8525068c2213d0528d104aca05dfc228671",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 018.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/8959bcf572f8e31225f0/000-ffa1dd85e2c49799.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "ffa1dd85e2c49799a9a46e5b670873cf6f94ad8069123884121b4aa66c8afb0c",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 019.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/0b87add14bd32c8a930f/000-9162a78a7bd55651.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "9162a78a7bd556517f64b79272e13efd01daff0676d4df1f5597b9cbb134922d",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 020.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/773dda82c39f9e0762f1/000-67e54e16183eae86.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "67e54e16183eae86579f228aa41841e7cad48179fc062265e4376bf1bd62d057",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 021.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/64c3cbc263f5c49bca2d/000-a7caf887dbfcf50f.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a7caf887dbfcf50f95865902dfe0a6d7e140851a54d1a4a80a67dcf65a7ca033",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 022.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/1514cabbcb135572a011/000-86f3837770961e44.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "86f3837770961e4488e8f8a3fca5f7794a6fa1bdcf04bbb3066db4ed142b9dd0",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 023.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/c34b8805b21b3c1ed716/000-f618de740760bbfe.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "f618de740760bbfee2185968b4c65c6a537fc0f569cba5fcb8919605e57a0ce1",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 024.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/43b52de96a312f729c04/000-b31ccbda686ab0f6.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b31ccbda686ab0f65106be175fadea739158d397065f6a5f719e90fe1648eee7",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 025.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/7b1abd5683a91d613ebf/000-70b6e89effd7d561.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "70b6e89effd7d561503ba0a8426ab0c8bebcd9abc6ef442741c979c6feb60b9c",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 026.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/d71e59e92b74e311b3f4/000-612f5b1211d4bf2d.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "612f5b1211d4bf2dbf4667ee9b8d7827ac04ed68a70f399da134dcd2508d7d0d",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2021,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
       "width_mm": 420.0
     },
     {
@@ -4279,7 +4929,7 @@
       "catalog_family": "Encre sur papier",
       "depth_mm": null,
       "diameter_mm": null,
-      "height_mm": 300.0,
+      "height_mm": 420.0,
       "images": [
         {
           "file": "media/d3e1946be345ac96969f/000-983401f88ef4cf2a.webp",
@@ -4297,7 +4947,7 @@
       "support": "Papier",
       "technique": "Encre",
       "title": "Sans",
-      "width_mm": 420.0
+      "width_mm": 290.0
     },
     {
       "artwork_id": "mixte/ZAZ-MT 50X65_2019-A046.png",
@@ -4470,7 +5120,7 @@
       "catalog_family": "Encre sur papier",
       "depth_mm": null,
       "diameter_mm": null,
-      "height_mm": 300.0,
+      "height_mm": 420.0,
       "images": [
         {
           "file": "media/c2e4b1a94279d542b9a7/000-c8ec8ee9c7786db2.webp",
@@ -4488,7 +5138,7 @@
       "support": "Papier",
       "technique": "Encre",
       "title": "Sans",
-      "width_mm": 420.0
+      "width_mm": 290.0
     },
     {
       "artwork_id": "KALR 00124 ST234",
@@ -5685,6 +6335,214 @@
       "technique": "Encre",
       "title": "SERIE metamorphose8",
       "width_mm": 290.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2016_ 001.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/12e8c8a9faded39be084/000-2f3065a8af0197ca.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "2f3065a8af0197cadee3067f434a591fa0d887d8a11eaa04a1a4fde73edb58b9",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2016_ 002.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/fe62f3034678e5864fa5/000-86fbece2b1684dbe.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "86fbece2b1684dbeeaae39e57c0e7a234159a87a62bf8b50341f955eaa5ffbef",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2016_ 003.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/ae975e687cd2e1be377c/000-c924b7e90bf70aca.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "c924b7e90bf70aca6f60051d995c7c609c1cf3d1e7f1173b71578a86c6c02543",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2016_ 004.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/206e1148216d933e78df/000-3a2f6c56155e2e03.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "3a2f6c56155e2e03a8bd4874ef9d62e5bd280b6c16c649823cbeed220b569e93",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2016_ 005.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/6fbaa9dcb2754fa0cb80/000-90732c171e5b2883.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "90732c171e5b28833b9b458092d4c5bcb9fb5b992b496a07b0e441557b6cd08a",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2016_ 006.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/e306905d0eee8f61e3cf/000-edd58f38ede7eb09.webp",
+          "height_px": 1448,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "edd58f38ede7eb09140a56abde9e7b9ee21ca9f899f7e1c95e4c6f50b1586ab3",
+          "sort_order": 0,
+          "width_px": 1086
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2016_ 027.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/a3d6853cf7db93cf3c8b/000-7dbe015e213c8d73.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "7dbe015e213c8d73f56ca549f4631f18fb5816f65f20353f267e01fc97a7602c",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
+    },
+    {
+      "artwork_id": "Encre/ENCRE_ATP_29X42_2021_ 028.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encre sur papier",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 290.0,
+      "images": [
+        {
+          "file": "media/2d7d23d2cdee354d5719/000-943ddc89b82a939b.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "943ddc89b82a939b063b3c9959cc3a1497c9107e070984daf1fcd14856b66318",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "Papier",
+      "technique": "Encre",
+      "title": "SANS",
+      "width_mm": 420.0
     },
     {
       "artwork_id": "KALR 00123 ST 232",
