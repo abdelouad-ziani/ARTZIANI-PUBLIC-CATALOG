@@ -6675,6 +6675,32 @@
       "width_mm": 1250.0
     },
     {
+      "artwork_id": "mixte/MT_150X100_2016_polyptyque.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Mixte sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 1500.0,
+      "images": [
+        {
+          "file": "media/689aaa81cb4d4d1de129/000-406f81f0f1927e7b.webp",
+          "height_px": 1024,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "406f81f0f1927e7b3e7fbbdcae64a511ade3e4bc461519ee58a8ebc1c22f21c4",
+          "sort_order": 0,
+          "width_px": 1536
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2016,
+      "support": "toile",
+      "technique": "mixte",
+      "title": "SANS",
+      "width_mm": 1000.0
+    },
+    {
       "artwork_id": "mixte/Zazklr MT250X50_2016 MM.png",
       "availability_status": "AVAILABLE",
       "catalog_family": "Mixte sur toile",
