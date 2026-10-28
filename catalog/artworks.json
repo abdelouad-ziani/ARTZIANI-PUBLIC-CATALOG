@@ -1232,32 +1232,6 @@
       "width_mm": 350.0
     },
     {
-      "artwork_id": "Encaustique/CCC_ENC_2026_35X35 AZ3.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 350.0,
-      "images": [
-        {
-          "file": "media/c0f3aa13193c4b590888/000-bf115963fd277252.webp",
-          "height_px": 1254,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "bf115963fd277252e1b8ebad4be7f2c1bed530dbb41229b11cec3040f0a8dbc0",
-          "sort_order": 0,
-          "width_px": 1254
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "SANS",
-      "width_mm": 350.0
-    },
-    {
       "artwork_id": "Encaustique/CCC_ENC_2026_35X35 AZ4.png",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -1271,32 +1245,6 @@
           "mime_type": "image/webp",
           "role": "PRIMARY",
           "sha256": "7be17d9391314028a25227f32d3d781aed5686be3a67d3f5c2aa70349b43f9e9",
-          "sort_order": 0,
-          "width_px": 1254
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2026,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "SANS",
-      "width_mm": 350.0
-    },
-    {
-      "artwork_id": "Encaustique/CCC_ENC_2026_35X35 AZ5.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 350.0,
-      "images": [
-        {
-          "file": "media/be32763edb570b46653e/000-80be7819a3c8c207.webp",
-          "height_px": 1254,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "80be7819a3c8c207aaed93b400b0c3202d767101683b58d56ecf1c0758611d21",
           "sort_order": 0,
           "width_px": 1254
         }
