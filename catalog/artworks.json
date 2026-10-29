@@ -2714,32 +2714,6 @@
       "width_mm": 680.0
     },
     {
-      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A63.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 920.0,
-      "images": [
-        {
-          "file": "media/3b4d6939ebe929fa7154/000-b4e32cbe8b700320.webp",
-          "height_px": 492,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "b4e32cbe8b7003206d5418a741c69ec7f49401f5e051ddb580c6578a266e0b81",
-          "sort_order": 0,
-          "width_px": 663
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2024,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "Sans",
-      "width_mm": 680.0
-    },
-    {
       "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A65.jpg",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -2807,58 +2781,6 @@
           "sha256": "e5856453eb5a15ada88e00a01bdff98dc43d0b9c8ec5e347012b9359ee9a5140",
           "sort_order": 0,
           "width_px": 697
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2024,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "Sans",
-      "width_mm": 680.0
-    },
-    {
-      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A68.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 920.0,
-      "images": [
-        {
-          "file": "media/8c472c36ce8905115700/000-20cc4e7d8c142f0c.webp",
-          "height_px": 498,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "20cc4e7d8c142f0c623bd6d2c658c6fd7e3d8dc867ee8a8db80da0e11f36f7d1",
-          "sort_order": 0,
-          "width_px": 379
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2024,
-      "support": "Bois",
-      "technique": "Encaustique",
-      "title": "Sans",
-      "width_mm": 680.0
-    },
-    {
-      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A69.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encaustique sur bois",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 920.0,
-      "images": [
-        {
-          "file": "media/0113c01d6c7961fbf547/000-d52322da7929f810.webp",
-          "height_px": 682,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "d52322da7929f810197632caf6854152b0d963e50c6b3e2c5e93fca51bf24c2a",
-          "sort_order": 0,
-          "width_px": 496
         }
       ],
       "materials": null,
@@ -7655,32 +7577,6 @@
       "width_mm": 1000.0
     },
     {
-      "artwork_id": "Acrylique/AZ-2012-A001.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 700.0,
-      "images": [
-        {
-          "file": "media/b4935880c15188beb131/000-5f3c77079615e5c8.webp",
-          "height_px": 726,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "5f3c77079615e5c8a4e9f6015fdcb63905a8763f8bc7710751515e85c2142db7",
-          "sort_order": 0,
-          "width_px": 1176
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2012,
-      "support": "toile",
-      "technique": "Acrylique",
-      "title": null,
-      "width_mm": 1000.0
-    },
-    {
       "artwork_id": "Acrylique/AZ-2012-A002",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Acrylique sur toile",
@@ -7965,32 +7861,6 @@
       "technique": "Acrylique",
       "title": "CYCLE",
       "width_mm": 440.0
-    },
-    {
-      "artwork_id": "Acrylique/AZ-2008-A015-81X55-AT-CYCLE.png",
-      "availability_status": "NOT_AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 810.0,
-      "images": [
-        {
-          "file": "media/04044f9fdad3be3ae029/000-dd9fb178e43577e0.webp",
-          "height_px": 705,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "dd9fb178e43577e054b263592779778888f30edc6d87a599e20a66a365682215",
-          "sort_order": 0,
-          "width_px": 1007
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2008,
-      "support": "TOILE",
-      "technique": "Acrylique",
-      "title": "CYCLE",
-      "width_mm": 610.0
     },
     {
       "artwork_id": "Acrylique/AZ-2008-A016.png",
