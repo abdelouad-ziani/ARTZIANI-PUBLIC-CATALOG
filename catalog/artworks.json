@@ -6701,32 +6701,6 @@
       "width_mm": 1600.0
     },
     {
-      "artwork_id": "Acrylique/AAA_AT_2014_90X100 ZZZ0015.png",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 900.0,
-      "images": [
-        {
-          "file": "media/1b075ea11a96f7a00482/000-fe27c49e7796fec7.webp",
-          "height_px": 1402,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "fe27c49e7796fec786e4842cdb982ba90afa074d7be1f29e0c58851b33c74cf4",
-          "sort_order": 0,
-          "width_px": 1122
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2014,
-      "support": "toile",
-      "technique": "Acrylique",
-      "title": "SANS",
-      "width_mm": 1000.0
-    },
-    {
       "artwork_id": "Acrylique/KZA1-77A012014",
       "availability_status": "AVAILABLE",
       "catalog_family": "Acrylique sur toile",
