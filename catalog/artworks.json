@@ -1232,6 +1232,32 @@
       "width_mm": 350.0
     },
     {
+      "artwork_id": "Encaustique/CCC_ENC_2026_35X35 AZ3.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/c0f3aa13193c4b590888/000-bf115963fd277252.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "bf115963fd277252e1b8ebad4be7f2c1bed530dbb41229b11cec3040f0a8dbc0",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
       "artwork_id": "Encaustique/CCC_ENC_2026_35X35 AZ4.png",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -1245,6 +1271,32 @@
           "mime_type": "image/webp",
           "role": "PRIMARY",
           "sha256": "7be17d9391314028a25227f32d3d781aed5686be3a67d3f5c2aa70349b43f9e9",
+          "sort_order": 0,
+          "width_px": 1254
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2026,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "SANS",
+      "width_mm": 350.0
+    },
+    {
+      "artwork_id": "Encaustique/CCC_ENC_2026_35X35 AZ5.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 350.0,
+      "images": [
+        {
+          "file": "media/be32763edb570b46653e/000-80be7819a3c8c207.webp",
+          "height_px": 1254,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "80be7819a3c8c207aaed93b400b0c3202d767101683b58d56ecf1c0758611d21",
           "sort_order": 0,
           "width_px": 1254
         }
@@ -2272,6 +2324,32 @@
       "width_mm": 680.0
     },
     {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A18.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/5a956540c7025c0bf2cf/000-a530d78399d43b85.webp",
+          "height_px": 945,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "a530d78399d43b8567be5a7e675636695ba46149792a71035a672cde718a3277",
+          "sort_order": 0,
+          "width_px": 1231
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
       "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A19.jpg",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -2688,6 +2766,32 @@
       "width_mm": 680.0
     },
     {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A63.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/3b4d6939ebe929fa7154/000-b4e32cbe8b700320.webp",
+          "height_px": 492,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "b4e32cbe8b7003206d5418a741c69ec7f49401f5e051ddb580c6578a266e0b81",
+          "sort_order": 0,
+          "width_px": 663
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
       "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A65.jpg",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
@@ -2755,6 +2859,58 @@
           "sha256": "e5856453eb5a15ada88e00a01bdff98dc43d0b9c8ec5e347012b9359ee9a5140",
           "sort_order": 0,
           "width_px": 697
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A68.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/8c472c36ce8905115700/000-20cc4e7d8c142f0c.webp",
+          "height_px": 498,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "20cc4e7d8c142f0c623bd6d2c658c6fd7e3d8dc867ee8a8db80da0e11f36f7d1",
+          "sort_order": 0,
+          "width_px": 379
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A69.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/0113c01d6c7961fbf547/000-d52322da7929f810.webp",
+          "height_px": 682,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "d52322da7929f810197632caf6854152b0d963e50c6b3e2c5e93fca51bf24c2a",
+          "sort_order": 0,
+          "width_px": 496
         }
       ],
       "materials": null,
@@ -2894,6 +3050,32 @@
       "technique": "Encaustique",
       "title": "Sans",
       "width_mm": 700.0
+    },
+    {
+      "artwork_id": "Encaustique/azklr EB76X1032024 B.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 760.0,
+      "images": [
+        {
+          "file": "media/fc1d98a0f99b80ed557c/000-823f682c8dd81575.webp",
+          "height_px": 888,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "823f682c8dd815759ccd637a53494d10b80e3620d2c3e19825269ce73d3bfa1e",
+          "sort_order": 0,
+          "width_px": 1178
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 1030.0
     },
     {
       "artwork_id": "Encre/Zazklr MT100X90-162024ZZ.png",
@@ -5661,32 +5843,6 @@
       "width_mm": 320.0
     },
     {
-      "artwork_id": "Encre/AKLP29-EP 29X32-2016.jpg",
-      "availability_status": "AVAILABLE",
-      "catalog_family": "Encre sur papier",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 290.0,
-      "images": [
-        {
-          "file": "media/da7df5b3be51a13afe32/000-c3e3927323cd20ca.webp",
-          "height_px": 470,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "c3e3927323cd20cae84f57c2dd71202aff252228b029b813f94cd71e08172aef",
-          "sort_order": 0,
-          "width_px": 659
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2016,
-      "support": "Papier",
-      "technique": "Encre",
-      "title": "Sans",
-      "width_mm": 320.0
-    },
-    {
       "artwork_id": "Encre/AKLP3-EP 29X32-2016.jpg",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encre sur papier",
@@ -6673,6 +6829,32 @@
       "technique": "Acrylique",
       "title": "SANS",
       "width_mm": 1600.0
+    },
+    {
+      "artwork_id": "Acrylique/AAA_AT_2014_90X100 ZZZ0015.png",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 900.0,
+      "images": [
+        {
+          "file": "media/1b075ea11a96f7a00482/000-fe27c49e7796fec7.webp",
+          "height_px": 1402,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "fe27c49e7796fec786e4842cdb982ba90afa074d7be1f29e0c58851b33c74cf4",
+          "sort_order": 0,
+          "width_px": 1122
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2014,
+      "support": "toile",
+      "technique": "Acrylique",
+      "title": "SANS",
+      "width_mm": 1000.0
     },
     {
       "artwork_id": "Acrylique/KZA1-77A012014",
@@ -7783,6 +7965,32 @@
       "technique": "Acrylique",
       "title": "CYCLE",
       "width_mm": 440.0
+    },
+    {
+      "artwork_id": "Acrylique/AZ-2008-A015-81X55-AT-CYCLE.png",
+      "availability_status": "NOT_AVAILABLE",
+      "catalog_family": "Acrylique sur toile",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 810.0,
+      "images": [
+        {
+          "file": "media/04044f9fdad3be3ae029/000-dd9fb178e43577e0.webp",
+          "height_px": 705,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "dd9fb178e43577e054b263592779778888f30edc6d87a599e20a66a365682215",
+          "sort_order": 0,
+          "width_px": 1007
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2008,
+      "support": "TOILE",
+      "technique": "Acrylique",
+      "title": "CYCLE",
+      "width_mm": 610.0
     },
     {
       "artwork_id": "Acrylique/AZ-2008-A016.png",
