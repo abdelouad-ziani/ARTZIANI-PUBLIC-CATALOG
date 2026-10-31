@@ -7941,32 +7941,6 @@
       "width_mm": 650.0
     },
     {
-      "artwork_id": "Acrylique/AZ-2008-A015",
-      "availability_status": "NOT_AVAILABLE",
-      "catalog_family": "Acrylique sur toile",
-      "depth_mm": null,
-      "diameter_mm": null,
-      "height_mm": 500.0,
-      "images": [
-        {
-          "file": "media/a2668e80f603553f543b/000-8c713a8a1bf1525d.webp",
-          "height_px": 268,
-          "mime_type": "image/webp",
-          "role": "PRIMARY",
-          "sha256": "8c713a8a1bf1525da99bc3a397074d75c22ebc111c7f750f1930df8c157d2ccf",
-          "sort_order": 0,
-          "width_px": 380
-        }
-      ],
-      "materials": null,
-      "orientation": null,
-      "production_year": 2008,
-      "support": "toile",
-      "technique": "Acrylique",
-      "title": "CYCLE",
-      "width_mm": 440.0
-    },
-    {
       "artwork_id": "Acrylique/AZ-2008-A015-81X55-AT-CYCLE.png",
       "availability_status": "NOT_AVAILABLE",
       "catalog_family": "Acrylique sur toile",
