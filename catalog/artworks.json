@@ -2870,6 +2870,32 @@
       "width_mm": 680.0
     },
     {
+      "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A68.jpg",
+      "availability_status": "AVAILABLE",
+      "catalog_family": "Encaustique sur bois",
+      "depth_mm": null,
+      "diameter_mm": null,
+      "height_mm": 920.0,
+      "images": [
+        {
+          "file": "media/8c472c36ce8905115700/000-20cc4e7d8c142f0c.webp",
+          "height_px": 498,
+          "mime_type": "image/webp",
+          "role": "PRIMARY",
+          "sha256": "20cc4e7d8c142f0c623bd6d2c658c6fd7e3d8dc867ee8a8db80da0e11f36f7d1",
+          "sort_order": 0,
+          "width_px": 379
+        }
+      ],
+      "materials": null,
+      "orientation": null,
+      "production_year": 2024,
+      "support": "Bois",
+      "technique": "Encaustique",
+      "title": "Sans",
+      "width_mm": 680.0
+    },
+    {
       "artwork_id": "Encaustique/ZAAZ 082024_92X68 ENC001A99.jpg",
       "availability_status": "AVAILABLE",
       "catalog_family": "Encaustique sur bois",
